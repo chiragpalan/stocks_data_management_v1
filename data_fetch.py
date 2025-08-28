@@ -56,10 +56,22 @@ def init_db():
 
 
 def insert_data(stock, df):
-    """Insert stock data into database."""
+    """Insert stock data into database with ON CONFLICT IGNORE to avoid duplicates."""
     conn = sqlite3.connect(DB_NAME)
-    df.to_sql(stock, conn, if_exists="append", index=True, index_label="datetime")
+    cursor = conn.cursor()
+
+    rows = df.to_records(index=False)  # Convert DataFrame to iterable of tuples
+    cursor.executemany(
+        f"""
+        INSERT OR IGNORE INTO '{stock}' (datetime, open, high, low, close, volume)
+        VALUES (?, ?, ?, ?, ?, ?)
+        """,
+        rows
+    )
+
+    conn.commit()
     conn.close()
+
 
 
 # ----------------------------
