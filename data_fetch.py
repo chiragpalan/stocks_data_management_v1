@@ -41,8 +41,9 @@ def init_db():
     cursor = conn.cursor()
 
     for stock in STOCKS:
+        table_name = stock.replace(".NS", "")
         cursor.execute(f"""
-            CREATE TABLE IF NOT EXISTS '{stock}' (
+            CREATE TABLE IF NOT EXISTS '{table_name}' (
                 datetime TEXT PRIMARY KEY,
                 open REAL,
                 high REAL,
