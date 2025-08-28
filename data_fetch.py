@@ -60,7 +60,11 @@ def insert_data(stock, df):
     conn = sqlite3.connect(DB_NAME)
     cursor = conn.cursor()
 
-    rows = df.to_records(index=False)  # Convert DataFrame to iterable of tuples
+    # Convert datetime column to string
+    df["datetime"] = df["datetime"].astype(str)
+
+    rows = df[["datetime", "open", "high", "low", "close", "volume"]].to_records(index=False)
+
     cursor.executemany(
         f"""
         INSERT OR IGNORE INTO '{stock}' (datetime, open, high, low, close, volume)
@@ -71,6 +75,7 @@ def insert_data(stock, df):
 
     conn.commit()
     conn.close()
+    logging.info(f"[{stock}] Inserted {len(rows)} rows (duplicates ignored)")
 
 
 
