@@ -122,7 +122,7 @@ def fetch_stock_data(stock):
 # README UPDATE
 # ----------------------------
 def update_readme():
-    """Append last 2 rows from each stock table to README.md."""
+    """Append last 2 rows from each stock table to README.md using HTML table."""
     conn = sqlite3.connect(DB_NAME)
     cursor = conn.cursor()
 
@@ -131,15 +131,21 @@ def update_readme():
         f.write(f"Last updated: {datetime.now(IST).strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n")
 
         for stock in STOCKS:
+            table_name = stock.replace(".NS", "")
             try:
                 df = pd.read_sql_query(
-                    f"SELECT * FROM '{stock}' ORDER BY datetime DESC LIMIT 2", conn
+                    f"SELECT datetime, close, volume FROM '{table_name}' ORDER BY datetime DESC LIMIT 2", conn
                 )
                 if df.empty:
                     continue
 
-                table = tabulate(df, headers="keys", tablefmt="github", showindex=True)
-                f.write(f"## \n \n {stock}\n\n{table}\n\n")
+                # Write HTML table
+                f.write(f"## {stock}\n\n")
+                f.write('<table>\n')
+                f.write('  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>\n')
+                for _, row in df.iterrows():
+                    f.write(f"  <tr><td>{row['datetime']}</td><td>{row['close']}</td><td>{row['volume']}</td></tr>\n")
+                f.write('</table>\n\n')
             except Exception as e:
                 logging.error(f"Error updating README for {stock}: {e}")
 
