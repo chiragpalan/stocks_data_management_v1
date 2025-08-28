@@ -41,7 +41,7 @@ def init_db():
     cursor = conn.cursor()
 
     for stock in STOCKS:
-        # table_name = stock.replace(".NS", "")
+        # table_name = stock.replace(".NS", ".NS")
         cursor.execute(f"""
             CREATE TABLE IF NOT EXISTS '{stock}' (
                 datetime TEXT PRIMARY KEY,
@@ -131,7 +131,7 @@ def update_readme():
         f.write(f"Last updated: {datetime.now(IST).strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n")
 
         for stock in STOCKS:
-            table_name = stock.replace(".NS", "")
+            table_name = stock.replace(".NS", ".NS")
             try:
                 df = pd.read_sql_query(
                     f"SELECT datetime, close, volume FROM '{table_name}' ORDER BY datetime DESC LIMIT 2", conn
