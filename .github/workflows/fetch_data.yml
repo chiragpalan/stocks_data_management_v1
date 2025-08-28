@@ -1,4 +1,4 @@
-name: Manual NIFTY50 Data Fetch
+name: NIFTY50 Data Fetch
 
 on:
   workflow_dispatch:  # Manual trigger
