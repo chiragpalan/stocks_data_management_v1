@@ -2,9 +2,9 @@ name: Manual NIFTY50 Data Fetch
 
 on:
   workflow_dispatch:  # Manual trigger
-  schedule:
-    # Runs every 15 minutes between 4:00 and 10:15 UTC (which is 9:30am-3:45pm IST)
-    - cron: '0,15,30,45 4-10 * * 1-5'
+  # schedule:
+  #   # Runs every 15 minutes between 4:00 and 10:15 UTC (which is 9:30am-3:45pm IST)
+  #   - cron: '0,15,30,45 4-10 * * 1-5'
 
 
 jobs:
