@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # fetch full history so we can rebase/push cleanly
+          fetch-depth: 0   # fetch full history just in case
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,8 +38,5 @@ jobs:
           git add nifty50_top20.db README.md
           git commit -m "Automated data update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
 
-          # sync with latest remote branch
-          git pull --rebase origin main || true
-
-          # push changes
-          git push origin main
+          # Force push to avoid non-fast-forward errors
+          git push origin main --force
