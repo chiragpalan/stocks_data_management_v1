@@ -49,7 +49,7 @@ def init_db():
                 high REAL,
                 low REAL,
                 close REAL,
-                volume INTEGER
+                volume REAL
             )
         """)
     conn.commit()
@@ -90,8 +90,9 @@ def fetch_stock_data(stock):
             tickers=stock,
             interval="1m",
             period="15m",
-            progress=False
-        )
+            progress=False)
+
+        df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype(int)
 
         if df.empty:
             logging.warning(f"No data returned for {stock}")
@@ -110,6 +111,7 @@ def fetch_stock_data(stock):
             "Close": "close",
             "Volume": "volume"
         }, inplace=True)
+        
 
         return df[["datetime", "open", "high", "low", "close", "volume"]]
 
