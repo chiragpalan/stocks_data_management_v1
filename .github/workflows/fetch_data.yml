@@ -34,12 +34,10 @@ jobs:
           python data_fetch.py
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add nifty50_top20.db README.md data_fetch.log
           git commit -m "Automated data update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
           git pull --rebase origin main
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+          git push
