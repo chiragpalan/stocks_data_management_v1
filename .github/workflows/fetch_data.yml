@@ -30,8 +30,15 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add nifty50_top20.db README.md data_fetch.log
-          git commit -m "Automated data update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add nifty50_top20.db README.md
+          git commit -m "Automated data update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+
+          # Make sure we have latest main branch
+          git pull --rebase origin main || true
+
+          # Push with rebase (safe fast-forward)
+          git push origin main
+
