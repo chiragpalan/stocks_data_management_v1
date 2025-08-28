@@ -137,7 +137,7 @@ def update_readme():
                 if df.empty:
                     continue
 
-                table = tabulate(df, headers="keys", tablefmt="github", showindex=False)
+                table = tabulate(df, headers="keys", tablefmt="github", showindex=True)
                 f.write(f"## {stock}\n\n{table}\n\n")
             except Exception as e:
                 logging.error(f"Error updating README for {stock}: {e}")
