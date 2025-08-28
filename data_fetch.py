@@ -89,7 +89,7 @@ def fetch_stock_data(stock):
         df = yf.download(
             tickers=stock,
             interval="1m",
-            period="15m",
+            period="1d",
             progress=False)
 
         
