@@ -102,7 +102,7 @@ def fetch_stock_data(stock):
 
         # Convert timezone to IST
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
-        df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype(int)
+        # df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype(int)
 
         df.rename(columns={
             "Datetime": "datetime",
