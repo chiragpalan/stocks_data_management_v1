@@ -34,7 +34,9 @@ jobs:
           python data_fetch.py
 
       - name: Pull latest changes
-        run: git pull --rebase origin main
+        run: | 
+          git fetch origin main
+          git reset --hard origin/main
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
