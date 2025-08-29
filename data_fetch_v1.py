@@ -6,7 +6,7 @@ import pytz
 import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
-
+from datetime import timedelta
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
@@ -102,10 +102,20 @@ def fetch_stock_data(stock):
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
 
         # Get current time in IST, round down to nearest 15 minutes
-        now = datetime.now(IST)
-        minute = (now.minute // 15) * 15
-        end_time = now.replace(minute=minute, second=0, microsecond=0)
-        start_time = end_time - timedelta(minutes=15)
+        # now = datetime.now(IST)
+        # minute = (now.minute // 15) * 15
+        # end_time = now.replace(minute=minute, second=0, microsecond=0)
+        # start_time = end_time - timedelta(minutes=15)
+
+
+        # 
+        # For testing: hardcode window 3:15pm to 3:30pm IST today
+        today = datetime.now(IST).date()
+        start_time = IST.localize(datetime.combine(today, datetime.min.time()).replace(hour=15, minute=15))
+        print(start_time)
+        end_time = IST.localize(datetime.combine(today, datetime.min.time()).replace(hour=15, minute=30))
+        print(end_time)
+        # 
 
         # Filter for the window (start_time <= Datetime < end_time)
         df_window = df[(df["Datetime"] >= start_time) & (df["Datetime"] < end_time)]
@@ -118,6 +128,7 @@ def fetch_stock_data(stock):
             "Close": "close",
             "Volume": "volume"
         }, inplace=True)
+        print(df_window.shape)
 
         return df_window[["datetime", "open", "high", "low", "close", "volume"]]
 
