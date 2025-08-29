@@ -2396,3 +2396,105 @@
 2025-08-29 06:31:27,547 - WARNING - No data returned for ONGC.NS
 2025-08-29 06:31:27,547 - WARNING - No data to insert for ONGC.NS
 2025-08-29 06:31:27,559 - INFO - Cycle complete. README updated.
+2025-08-29 06:55:00,443 - INFO - Starting data fetch cycle...
+2025-08-29 06:55:00,747 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:00,747 - ERROR - ['RELIANCE.NS']: YFInvalidPeriodError("RELIANCE.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:00,749 - WARNING - No data returned for RELIANCE.NS
+2025-08-29 06:55:00,750 - WARNING - No data to insert for RELIANCE.NS
+2025-08-29 06:55:00,881 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:00,881 - ERROR - ['HDFCBANK.NS']: YFInvalidPeriodError("HDFCBANK.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:00,884 - WARNING - No data returned for HDFCBANK.NS
+2025-08-29 06:55:00,884 - WARNING - No data to insert for HDFCBANK.NS
+2025-08-29 06:55:00,995 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:00,995 - ERROR - ['ICICIBANK.NS']: YFInvalidPeriodError("ICICIBANK.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:00,997 - WARNING - No data returned for ICICIBANK.NS
+2025-08-29 06:55:00,997 - WARNING - No data to insert for ICICIBANK.NS
+2025-08-29 06:55:01,149 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,149 - ERROR - ['INFY.NS']: YFInvalidPeriodError("INFY.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,151 - WARNING - No data returned for INFY.NS
+2025-08-29 06:55:01,151 - WARNING - No data to insert for INFY.NS
+2025-08-29 06:55:01,283 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,283 - ERROR - ['TCS.NS']: YFInvalidPeriodError("TCS.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,285 - WARNING - No data returned for TCS.NS
+2025-08-29 06:55:01,285 - WARNING - No data to insert for TCS.NS
+2025-08-29 06:55:01,398 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,398 - ERROR - ['ITC.NS']: YFInvalidPeriodError("ITC.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,400 - WARNING - No data returned for ITC.NS
+2025-08-29 06:55:01,400 - WARNING - No data to insert for ITC.NS
+2025-08-29 06:55:01,521 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,521 - ERROR - ['HINDUNILVR.NS']: YFInvalidPeriodError("HINDUNILVR.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,523 - WARNING - No data returned for HINDUNILVR.NS
+2025-08-29 06:55:01,523 - WARNING - No data to insert for HINDUNILVR.NS
+2025-08-29 06:55:01,665 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,665 - ERROR - ['SBIN.NS']: YFInvalidPeriodError("SBIN.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,667 - WARNING - No data returned for SBIN.NS
+2025-08-29 06:55:01,667 - WARNING - No data to insert for SBIN.NS
+2025-08-29 06:55:01,778 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,778 - ERROR - ['BHARTIARTL.NS']: YFInvalidPeriodError("BHARTIARTL.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,780 - WARNING - No data returned for BHARTIARTL.NS
+2025-08-29 06:55:01,780 - WARNING - No data to insert for BHARTIARTL.NS
+2025-08-29 06:55:01,892 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:01,892 - ERROR - ['KOTAKBANK.NS']: YFInvalidPeriodError("KOTAKBANK.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:01,894 - WARNING - No data returned for KOTAKBANK.NS
+2025-08-29 06:55:01,895 - WARNING - No data to insert for KOTAKBANK.NS
+2025-08-29 06:55:02,047 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,047 - ERROR - ['LT.NS']: YFInvalidPeriodError("LT.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,049 - WARNING - No data returned for LT.NS
+2025-08-29 06:55:02,049 - WARNING - No data to insert for LT.NS
+2025-08-29 06:55:02,160 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,161 - ERROR - ['AXISBANK.NS']: YFInvalidPeriodError("AXISBANK.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,162 - WARNING - No data returned for AXISBANK.NS
+2025-08-29 06:55:02,162 - WARNING - No data to insert for AXISBANK.NS
+2025-08-29 06:55:02,284 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,284 - ERROR - ['BAJFINANCE.NS']: YFInvalidPeriodError("BAJFINANCE.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,286 - WARNING - No data returned for BAJFINANCE.NS
+2025-08-29 06:55:02,286 - WARNING - No data to insert for BAJFINANCE.NS
+2025-08-29 06:55:02,458 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,458 - ERROR - ['ASIANPAINT.NS']: YFInvalidPeriodError("ASIANPAINT.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,460 - WARNING - No data returned for ASIANPAINT.NS
+2025-08-29 06:55:02,460 - WARNING - No data to insert for ASIANPAINT.NS
+2025-08-29 06:55:02,561 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,562 - ERROR - ['MARUTI.NS']: YFInvalidPeriodError("MARUTI.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,563 - WARNING - No data returned for MARUTI.NS
+2025-08-29 06:55:02,563 - WARNING - No data to insert for MARUTI.NS
+2025-08-29 06:55:02,675 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,675 - ERROR - ['SUNPHARMA.NS']: YFInvalidPeriodError("SUNPHARMA.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,677 - WARNING - No data returned for SUNPHARMA.NS
+2025-08-29 06:55:02,677 - WARNING - No data to insert for SUNPHARMA.NS
+2025-08-29 06:55:02,809 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,809 - ERROR - ['WIPRO.NS']: YFInvalidPeriodError("WIPRO.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,811 - WARNING - No data returned for WIPRO.NS
+2025-08-29 06:55:02,811 - WARNING - No data to insert for WIPRO.NS
+2025-08-29 06:55:02,922 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:02,922 - ERROR - ['POWERGRID.NS']: YFInvalidPeriodError("POWERGRID.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:02,924 - WARNING - No data returned for POWERGRID.NS
+2025-08-29 06:55:02,924 - WARNING - No data to insert for POWERGRID.NS
+2025-08-29 06:55:03,036 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:03,036 - ERROR - ['NTPC.NS']: YFInvalidPeriodError("NTPC.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:03,038 - WARNING - No data returned for NTPC.NS
+2025-08-29 06:55:03,038 - WARNING - No data to insert for NTPC.NS
+2025-08-29 06:55:03,159 - ERROR - 
+1 Failed download:
+2025-08-29 06:55:03,159 - ERROR - ['ONGC.NS']: YFInvalidPeriodError("ONGC.NS: Period '15m' is invalid, must be one of: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max")
+2025-08-29 06:55:03,161 - WARNING - No data returned for ONGC.NS
+2025-08-29 06:55:03,161 - WARNING - No data to insert for ONGC.NS
+2025-08-29 06:55:03,173 - INFO - Cycle complete. README updated.
