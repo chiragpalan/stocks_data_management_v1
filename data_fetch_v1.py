@@ -93,6 +93,7 @@ def fetch_stock_data(stock):
             period="1d",
             progress=False
         )
+        print(df.head(2)) 
 
         if df.empty:
             logging.warning(f"No data returned for {stock}")
