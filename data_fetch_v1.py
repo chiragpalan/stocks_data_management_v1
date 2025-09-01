@@ -6,6 +6,7 @@ import pytz
 import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
+from datetime import timedelta
 
 # ----------------------------
 # CONFIGURATIONS
@@ -23,7 +24,7 @@ STOCKS = [
 
 # Setup logging
 logging.basicConfig(
-    filename="data_fetch.log",
+    filename="data_fetch_v1.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
