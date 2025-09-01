@@ -10,7 +10,7 @@ from tabulate import tabulate
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
-DB_NAME = "nifty50_top20_v1.db"
+DB_NAME = "nifty50_top20_v2.db"
 README_FILE = "README.md"
 
 # Top 20 NIFTY50 stocks (symbols must match Yahoo Finance format, ".NS" for NSE India)
