@@ -6,7 +6,6 @@ import pytz
 import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
-import struct
 
 
 # ----------------------------
@@ -81,17 +80,6 @@ def insert_data(stock, df):
     logging.info(f"[{stock}] Inserted {len(rows)} rows (duplicates ignored)")
 
 # ----------------------------
-# Decoding
-# ----------------------------
-
-def decode_blob(blob):
-    try:
-        return struct.unpack('<Q', blob)[0]  # decode to integer
-    except:
-        return None
-
-
-# ----------------------------
 # DATA FETCHING
 # ----------------------------
 def fetch_stock_data(stock):
@@ -127,7 +115,7 @@ def fetch_stock_data(stock):
             "Volume": "volume"
         }, inplace=True)
 
-        df['Volume'] = df['Volume'].apply(decode_blob)
+        df['volume'] = df['volume'].apply(lambda x: int.from_bytes(x, byteorder='little', signed=False))
         
 
         return df[["datetime", "open", "high", "low", "close", "volume"]]
