@@ -32,6 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
           git add README.md nifty50_top20.db data_fetch.log
           git commit -m "Update stock data and snapshot [CI skip]" || echo "No changes to commit"
           git push
