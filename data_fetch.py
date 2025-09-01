@@ -90,7 +90,7 @@ def fetch_stock_data(stock):
             tickers=stock,
             interval="1m",
             period="1d",
-            progress=False)
+            progress=True)
 
         
         if df.empty:
