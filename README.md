@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-01 15:56:55 IST
+Last updated: 2025-09-01 16:16:42 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-09-01 15:56:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-01 15:29:00+05:30</td><td>950.5999755859375</td><td>b'\x14u\x00\x00\x00\x00\x00\x00'</td></tr>
   <tr><td>2025-09-01 15:28:00+05:30</td><td>950.9000244140625</td><td>b'\xbb@\x01\x00\x00\x00\x00\x00'</td></tr>
-  <tr><td>2025-09-01 15:27:00+05:30</td><td>950.6500244140625</td><td>b'`W\x01\x00\x00\x00\x00\x00'</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -38,8 +38,8 @@ Last updated: 2025-09-01 15:56:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-01 15:29:00+05:30</td><td>3112.60009765625</td><td>b'\x13\x0c\x00\x00\x00\x00\x00\x00'</td></tr>
   <tr><td>2025-09-01 15:28:00+05:30</td><td>3110.89990234375</td><td>b'a\x18\x00\x00\x00\x00\x00\x00'</td></tr>
-  <tr><td>2025-09-01 15:27:00+05:30</td><td>3113.10009765625</td><td>b'i\x1d\x00\x00\x00\x00\x00\x00'</td></tr>
 </table>
 
 ## ITC.NS
@@ -102,8 +102,8 @@ Last updated: 2025-09-01 15:56:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-01 15:29:00+05:30</td><td>889.3499755859375</td><td>b'\xa4\x1d\x00\x00\x00\x00\x00\x00'</td></tr>
   <tr><td>2025-09-01 15:28:00+05:30</td><td>890.0</td><td>b'\x00I\x00\x00\x00\x00\x00\x00'</td></tr>
-  <tr><td>2025-09-01 15:27:00+05:30</td><td>889.9000244140625</td><td>b'qL\x01\x00\x00\x00\x00\x00'</td></tr>
 </table>
 
 ## ASIANPAINT.NS
@@ -118,8 +118,8 @@ Last updated: 2025-09-01 15:56:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-01 15:29:00+05:30</td><td>14887.0</td><td>b'\x10\x02\x00\x00\x00\x00\x00\x00'</td></tr>
   <tr><td>2025-09-01 15:28:00+05:30</td><td>14878.0</td><td>b'Q\x03\x00\x00\x00\x00\x00\x00'</td></tr>
-  <tr><td>2025-09-01 15:27:00+05:30</td><td>14882.0</td><td>b'}\x06\x00\x00\x00\x00\x00\x00'</td></tr>
 </table>
 
 ## SUNPHARMA.NS
