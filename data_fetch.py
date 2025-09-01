@@ -10,7 +10,7 @@ from tabulate import tabulate
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
-DB_NAME = "nifty50_top20_v1.db"
+DB_NAME = "nifty50_top20.db"
 README_FILE = "README.md"
 
 # Top 20 NIFTY50 stocks (symbols must match Yahoo Finance format, ".NS" for NSE India)
@@ -103,7 +103,7 @@ def fetch_stock_data(stock):
 
         # Convert timezone to IST
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
-        # df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype(int)
+        df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype(int)
 
         df.rename(columns={
             "Datetime": "datetime",
