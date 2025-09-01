@@ -126,6 +126,8 @@ def fetch_stock_data(stock):
             "Close": "close",
             "Volume": "volume"
         }, inplace=True)
+
+        df['Volume'] = df['Volume'].apply(decode_blob)
         
 
         return df[["datetime", "open", "high", "low", "close", "volume"]]
