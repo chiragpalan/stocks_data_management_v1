@@ -11,7 +11,7 @@ from tabulate import tabulate
 # CONFIGURATIONS
 # ----------------------------
 DB_NAME = "nifty50_top20_v1.db"
-README_FILE = "README.md"
+README_FILE = "readme_v1.md" #"README.md"
 
 # Top 20 NIFTY50 stocks (symbols must match Yahoo Finance format, ".NS" for NSE India)
 STOCKS = [
