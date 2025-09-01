@@ -4538,3 +4538,45 @@
 2025-09-01 10:26:55,365 - INFO - [ONGC.NS] Inserted 375 rows (duplicates ignored)
 2025-09-01 10:26:55,365 - INFO - Inserted 375 rows for ONGC.NS
 2025-09-01 10:26:55,377 - INFO - Cycle complete. README updated.
+2025-09-01 10:39:23,345 - INFO - Starting data fetch cycle...
+2025-09-01 10:39:23,716 - ERROR - Error fetching data for RELIANCE.NS: name 'timedelta' is not defined
+2025-09-01 10:39:23,717 - WARNING - No data to insert for RELIANCE.NS
+2025-09-01 10:39:23,907 - ERROR - Error fetching data for HDFCBANK.NS: name 'timedelta' is not defined
+2025-09-01 10:39:23,907 - WARNING - No data to insert for HDFCBANK.NS
+2025-09-01 10:39:24,055 - ERROR - Error fetching data for ICICIBANK.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,055 - WARNING - No data to insert for ICICIBANK.NS
+2025-09-01 10:39:24,206 - ERROR - Error fetching data for INFY.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,206 - WARNING - No data to insert for INFY.NS
+2025-09-01 10:39:24,336 - ERROR - Error fetching data for TCS.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,336 - WARNING - No data to insert for TCS.NS
+2025-09-01 10:39:24,482 - ERROR - Error fetching data for ITC.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,482 - WARNING - No data to insert for ITC.NS
+2025-09-01 10:39:24,623 - ERROR - Error fetching data for HINDUNILVR.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,623 - WARNING - No data to insert for HINDUNILVR.NS
+2025-09-01 10:39:24,781 - ERROR - Error fetching data for SBIN.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,781 - WARNING - No data to insert for SBIN.NS
+2025-09-01 10:39:24,920 - ERROR - Error fetching data for BHARTIARTL.NS: name 'timedelta' is not defined
+2025-09-01 10:39:24,920 - WARNING - No data to insert for BHARTIARTL.NS
+2025-09-01 10:39:25,076 - ERROR - Error fetching data for KOTAKBANK.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,076 - WARNING - No data to insert for KOTAKBANK.NS
+2025-09-01 10:39:25,227 - ERROR - Error fetching data for LT.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,227 - WARNING - No data to insert for LT.NS
+2025-09-01 10:39:25,377 - ERROR - Error fetching data for AXISBANK.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,377 - WARNING - No data to insert for AXISBANK.NS
+2025-09-01 10:39:25,509 - ERROR - Error fetching data for BAJFINANCE.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,509 - WARNING - No data to insert for BAJFINANCE.NS
+2025-09-01 10:39:25,680 - ERROR - Error fetching data for ASIANPAINT.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,681 - WARNING - No data to insert for ASIANPAINT.NS
+2025-09-01 10:39:25,820 - ERROR - Error fetching data for MARUTI.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,820 - WARNING - No data to insert for MARUTI.NS
+2025-09-01 10:39:25,968 - ERROR - Error fetching data for SUNPHARMA.NS: name 'timedelta' is not defined
+2025-09-01 10:39:25,968 - WARNING - No data to insert for SUNPHARMA.NS
+2025-09-01 10:39:26,155 - ERROR - Error fetching data for WIPRO.NS: name 'timedelta' is not defined
+2025-09-01 10:39:26,156 - WARNING - No data to insert for WIPRO.NS
+2025-09-01 10:39:26,294 - ERROR - Error fetching data for POWERGRID.NS: name 'timedelta' is not defined
+2025-09-01 10:39:26,294 - WARNING - No data to insert for POWERGRID.NS
+2025-09-01 10:39:26,433 - ERROR - Error fetching data for NTPC.NS: name 'timedelta' is not defined
+2025-09-01 10:39:26,434 - WARNING - No data to insert for NTPC.NS
+2025-09-01 10:39:26,573 - ERROR - Error fetching data for ONGC.NS: name 'timedelta' is not defined
+2025-09-01 10:39:26,573 - WARNING - No data to insert for ONGC.NS
+2025-09-01 10:39:26,585 - INFO - Cycle complete. README updated.
