@@ -1,37 +1,40 @@
-name: Manual NIFTY50 Data Fetch
+name: Fetch NIFTY50 Data
 
 on:
-  workflow_dispatch:  # Manual trigger
-  # schedule:
-  #   # Runs every 15 minutes between 4:00 and 10:15 UTC (which is 9:30am-3:45pm IST)
-  #   - cron: '0,15,30,45 4-10 * * 1-5'
+  workflow_dispatch:  # manual trigger
+  schedule:
+    - cron: "0,15,30,45 4-10 * * 1-5"   # every 15 mins between 9:30am-3:45pm IST
 
+permissions:
+  contents: write
 
 jobs:
-  fetch-and-update:
+  fetch-data:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'  # or your preferred version
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install yfinance pandas tabulate pytz
 
       - name: Run data fetch script
         run: python data_fetch.py
 
-      - name: Commit and push README and DB updates
+      - name: Configure git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
           git add README.md nifty50_top20.db data_fetch.log
-          git commit -m "Update stock data and snapshot [CI skip]" || echo "No changes to commit"
+          git commit -m "Automated data update: $(date -u)"
           git push
