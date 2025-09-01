@@ -1,4 +1,4 @@
-name: Fetch NIFTY50 Data
+name: Fetch NIFTY50 Data - test
 
 on:
   workflow_dispatch:  # manual trigger
