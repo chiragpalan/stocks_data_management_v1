@@ -98,6 +98,7 @@ def fetch_stock_data(stock):
             return None
 
         # Reset index to get datetime as column
+        df = df.droplevel('Ticker', axis=1)
         df.reset_index(inplace=True)
 
         # Convert timezone to IST
