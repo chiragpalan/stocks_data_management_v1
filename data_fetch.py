@@ -6,6 +6,8 @@ import pytz
 import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
+import struct
+
 
 # ----------------------------
 # CONFIGURATIONS
@@ -78,6 +80,15 @@ def insert_data(stock, df):
     conn.close()
     logging.info(f"[{stock}] Inserted {len(rows)} rows (duplicates ignored)")
 
+# ----------------------------
+# Decoding
+# ----------------------------
+
+def decode_blob(blob):
+    try:
+        return struct.unpack('<Q', blob)[0]  # decode to integer
+    except:
+        return None
 
 
 # ----------------------------
