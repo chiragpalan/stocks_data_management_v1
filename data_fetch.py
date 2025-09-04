@@ -107,7 +107,7 @@ def fetch_stock_data(stock):
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
         
         df["Volume"] = pd.to_numeric(df["Volume"], errors="coerce").fillna(0).astype(int)
-        df["Volume"] = df["Volume"] * 1 
+        # df["Volume"] = df["Volume"] * 1 
 
         df.rename(columns={
             "Datetime": "datetime",

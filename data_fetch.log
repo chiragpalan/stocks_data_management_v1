@@ -1,0 +1,102 @@
+2025-09-04 16:17:58,668 - INFO - Starting data fetch cycle...
+2025-09-04 16:18:03,978 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:03,978 - ERROR - ['RELIANCE.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:03,978 - WARNING - No data returned for RELIANCE.NS
+2025-09-04 16:18:03,978 - WARNING - No data to insert for RELIANCE.NS
+2025-09-04 16:18:04,176 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:04,176 - ERROR - ['HDFCBANK.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:04,177 - WARNING - No data returned for HDFCBANK.NS
+2025-09-04 16:18:04,177 - WARNING - No data to insert for HDFCBANK.NS
+2025-09-04 16:18:04,385 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:04,385 - ERROR - ['ICICIBANK.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:04,386 - WARNING - No data returned for ICICIBANK.NS
+2025-09-04 16:18:04,386 - WARNING - No data to insert for ICICIBANK.NS
+2025-09-04 16:18:04,519 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:04,519 - ERROR - ['INFY.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:04,520 - WARNING - No data returned for INFY.NS
+2025-09-04 16:18:04,520 - WARNING - No data to insert for INFY.NS
+2025-09-04 16:18:04,644 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:04,644 - ERROR - ['TCS.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:04,644 - WARNING - No data returned for TCS.NS
+2025-09-04 16:18:04,644 - WARNING - No data to insert for TCS.NS
+2025-09-04 16:18:04,814 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:04,814 - ERROR - ['ITC.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:04,815 - WARNING - No data returned for ITC.NS
+2025-09-04 16:18:04,815 - WARNING - No data to insert for ITC.NS
+2025-09-04 16:18:04,968 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:04,968 - ERROR - ['HINDUNILVR.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:04,969 - WARNING - No data returned for HINDUNILVR.NS
+2025-09-04 16:18:04,969 - WARNING - No data to insert for HINDUNILVR.NS
+2025-09-04 16:18:05,095 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:05,095 - ERROR - ['SBIN.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:05,095 - WARNING - No data returned for SBIN.NS
+2025-09-04 16:18:05,095 - WARNING - No data to insert for SBIN.NS
+2025-09-04 16:18:05,219 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:05,219 - ERROR - ['BHARTIARTL.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:05,219 - WARNING - No data returned for BHARTIARTL.NS
+2025-09-04 16:18:05,219 - WARNING - No data to insert for BHARTIARTL.NS
+2025-09-04 16:18:05,388 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:05,388 - ERROR - ['KOTAKBANK.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:05,388 - WARNING - No data returned for KOTAKBANK.NS
+2025-09-04 16:18:05,388 - WARNING - No data to insert for KOTAKBANK.NS
+2025-09-04 16:18:05,678 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:05,678 - ERROR - ['LT.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:05,678 - WARNING - No data returned for LT.NS
+2025-09-04 16:18:05,679 - WARNING - No data to insert for LT.NS
+2025-09-04 16:18:05,883 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:05,883 - ERROR - ['AXISBANK.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:05,884 - WARNING - No data returned for AXISBANK.NS
+2025-09-04 16:18:05,884 - WARNING - No data to insert for AXISBANK.NS
+2025-09-04 16:18:06,070 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,070 - ERROR - ['BAJFINANCE.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,070 - WARNING - No data returned for BAJFINANCE.NS
+2025-09-04 16:18:06,070 - WARNING - No data to insert for BAJFINANCE.NS
+2025-09-04 16:18:06,212 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,212 - ERROR - ['ASIANPAINT.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,212 - WARNING - No data returned for ASIANPAINT.NS
+2025-09-04 16:18:06,212 - WARNING - No data to insert for ASIANPAINT.NS
+2025-09-04 16:18:06,336 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,337 - ERROR - ['MARUTI.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,337 - WARNING - No data returned for MARUTI.NS
+2025-09-04 16:18:06,337 - WARNING - No data to insert for MARUTI.NS
+2025-09-04 16:18:06,464 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,464 - ERROR - ['SUNPHARMA.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,464 - WARNING - No data returned for SUNPHARMA.NS
+2025-09-04 16:18:06,465 - WARNING - No data to insert for SUNPHARMA.NS
+2025-09-04 16:18:06,615 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,615 - ERROR - ['WIPRO.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,615 - WARNING - No data returned for WIPRO.NS
+2025-09-04 16:18:06,616 - WARNING - No data to insert for WIPRO.NS
+2025-09-04 16:18:06,725 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,725 - ERROR - ['POWERGRID.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,725 - WARNING - No data returned for POWERGRID.NS
+2025-09-04 16:18:06,725 - WARNING - No data to insert for POWERGRID.NS
+2025-09-04 16:18:06,848 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,848 - ERROR - ['NTPC.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,849 - WARNING - No data returned for NTPC.NS
+2025-09-04 16:18:06,849 - WARNING - No data to insert for NTPC.NS
+2025-09-04 16:18:06,958 - ERROR - 
+1 Failed download:
+2025-09-04 16:18:06,958 - ERROR - ['ONGC.NS']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-09-04 16:18:06,959 - WARNING - No data returned for ONGC.NS
+2025-09-04 16:18:06,959 - WARNING - No data to insert for ONGC.NS
+2025-09-04 16:18:07,000 - INFO - Cycle complete. README updated.
