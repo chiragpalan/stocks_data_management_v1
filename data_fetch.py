@@ -7,6 +7,7 @@ import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
 
+
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
@@ -78,8 +79,6 @@ def insert_data(stock, df):
     conn.close()
     logging.info(f"[{stock}] Inserted {len(rows)} rows (duplicates ignored)")
 
-
-
 # ----------------------------
 # DATA FETCHING
 # ----------------------------
@@ -90,7 +89,7 @@ def fetch_stock_data(stock):
             tickers=stock,
             interval="1m",
             period="1d",
-            progress=False)
+            progress=True)
 
         
         if df.empty:
@@ -98,11 +97,14 @@ def fetch_stock_data(stock):
             return None
 
         # Reset index to get datetime as column
+        # df = df.droplevel('Ticker', axis=1)
         df.reset_index(inplace=True)
 
         # Convert timezone to IST
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
-        # df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype(int)
+        print("My data is \n",df.head(2))
+        df["Volume"] = pd.to_numeric(df["Volume"], errors="coerce").fillna(0).astype(int)
+        
 
         df.rename(columns={
             "Datetime": "datetime",
@@ -112,6 +114,8 @@ def fetch_stock_data(stock):
             "Close": "close",
             "Volume": "volume"
         }, inplace=True)
+
+        df['volume'] = df['volume'].apply(lambda x: int.from_bytes(x, byteorder='little', signed=False))
         
 
         return df[["datetime", "open", "high", "low", "close", "volume"]]

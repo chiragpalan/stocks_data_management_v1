@@ -7,6 +7,10 @@ import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
 from datetime import timedelta
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1335ba83bd5f003ef437c538cd125b3671aad351
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
@@ -23,7 +27,7 @@ STOCKS = [
 
 # Setup logging
 logging.basicConfig(
-    filename="data_fetch.log",
+    filename="data_fetch_v1.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -91,8 +95,9 @@ def fetch_stock_data(stock):
             tickers=stock,
             interval="1m",
             period="1d",
-            progress=False
+            progress=True
         )
+        
 
         if df.empty:
             logging.warning(f"No data returned for {stock}")
@@ -128,7 +133,11 @@ def fetch_stock_data(stock):
             "Close": "close",
             "Volume": "volume"
         }, inplace=True)
+<<<<<<< HEAD
         print(df_window.shape)
+=======
+        print(df_window.head(2)) 
+>>>>>>> 1335ba83bd5f003ef437c538cd125b3671aad351
 
         return df_window[["datetime", "open", "high", "low", "close", "volume"]]
 
