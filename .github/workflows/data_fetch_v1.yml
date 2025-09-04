@@ -32,13 +32,13 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script
-        run: python data_fetch.py   # adjust path if needed
+        run: python data_fetch_v1.py   # adjust path if needed
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md *.db || true
+          git add README_v1.md *.db || true
           if ! git diff --cached --quiet; then
             git commit -m "Automated data update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push

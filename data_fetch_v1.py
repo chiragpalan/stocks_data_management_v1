@@ -11,8 +11,8 @@ from tabulate import tabulate
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
-DB_NAME = "nifty50_top20.db"
-README_FILE = "README.md"
+DB_NAME = "nifty50_top20_v1.db"
+README_FILE = "README_v1.md"
 
 # Top 20 NIFTY50 stocks (symbols must match Yahoo Finance format, ".NS" for NSE India)
 STOCKS = [
@@ -24,7 +24,7 @@ STOCKS = [
 
 # Setup logging
 logging.basicConfig(
-    filename="data_fetch.log",
+    filename="data_fetch_v1.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
