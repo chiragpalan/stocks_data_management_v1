@@ -6,16 +6,13 @@ import pytz
 import yfinance as yf
 import pandas as pd
 from tabulate import tabulate
-from datetime import timedelta
-<<<<<<< HEAD
-=======
 
->>>>>>> 1335ba83bd5f003ef437c538cd125b3671aad351
+
 # ----------------------------
 # CONFIGURATIONS
 # ----------------------------
-DB_NAME = "nifty50_top20_v1.db"
-README_FILE = "README_v1.md"
+DB_NAME = "nifty50_top20.db"
+README_FILE = "README.md"
 
 # Top 20 NIFTY50 stocks (symbols must match Yahoo Finance format, ".NS" for NSE India)
 STOCKS = [
@@ -27,7 +24,7 @@ STOCKS = [
 
 # Setup logging
 logging.basicConfig(
-    filename="data_fetch_v1.log",
+    filename="data_fetch.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -53,7 +50,7 @@ def init_db():
                 high REAL,
                 low REAL,
                 close REAL,
-                volume REAL
+                volume INTEGER
             )
         """)
     conn.commit()
@@ -67,8 +64,11 @@ def insert_data(stock, df):
 
     # Convert datetime column to string
     df["datetime"] = df["datetime"].astype(str)
+    df["volume"] = df["volume"].astype(int)
+    print("My data is \n",df.head(2))
 
-    rows = df[["datetime", "open", "high", "low", "close", "volume"]].to_records(index=False)
+    rows = df[["datetime", "open", "high", "low", "close", "volume"]].values.tolist()
+    print("rows", rows[:2])
 
     cursor.executemany(
         f"""
@@ -82,50 +82,34 @@ def insert_data(stock, df):
     conn.close()
     logging.info(f"[{stock}] Inserted {len(rows)} rows (duplicates ignored)")
 
-
-
 # ----------------------------
 # DATA FETCHING
 # ----------------------------
-
 def fetch_stock_data(stock):
-    """Fetch 1-min data for the required 15-minute window for a stock."""
+    """Fetch 1-min data for the past 15 minutes for a stock."""
     try:
         df = yf.download(
             tickers=stock,
             interval="1m",
             period="1d",
-            progress=True
-        )
-        
+            progress=True)
 
+        
         if df.empty:
             logging.warning(f"No data returned for {stock}")
             return None
 
+        # Reset index to get datetime as column
+        df = df.droplevel('Ticker', axis=1)
         df.reset_index(inplace=True)
+
+        # Convert timezone to IST
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
+        
+        df["Volume"] = pd.to_numeric(df["Volume"], errors="coerce").fillna(0).astype(int)
+        df["Volume"] = df["Volume"] * 1 
 
-        # Get current time in IST, round down to nearest 15 minutes
-        # now = datetime.now(IST)
-        # minute = (now.minute // 15) * 15
-        # end_time = now.replace(minute=minute, second=0, microsecond=0)
-        # start_time = end_time - timedelta(minutes=15)
-
-
-        # 
-        # For testing: hardcode window 3:15pm to 3:30pm IST today
-        today = datetime.now(IST).date()
-        start_time = IST.localize(datetime.combine(today, datetime.min.time()).replace(hour=15, minute=15))
-        print(start_time)
-        end_time = IST.localize(datetime.combine(today, datetime.min.time()).replace(hour=15, minute=30))
-        print(end_time)
-        # 
-
-        # Filter for the window (start_time <= Datetime < end_time)
-        df_window = df[(df["Datetime"] >= start_time) & (df["Datetime"] < end_time)]
-
-        df_window.rename(columns={
+        df.rename(columns={
             "Datetime": "datetime",
             "Open": "open",
             "High": "high",
@@ -133,13 +117,12 @@ def fetch_stock_data(stock):
             "Close": "close",
             "Volume": "volume"
         }, inplace=True)
-<<<<<<< HEAD
-        print(df_window.shape)
-=======
-        print(df_window.head(2)) 
->>>>>>> 1335ba83bd5f003ef437c538cd125b3671aad351
 
-        return df_window[["datetime", "open", "high", "low", "close", "volume"]]
+        # df['volume'] = df['volume'].apply(lambda x: int.from_bytes(x, byteorder='little', signed=False))
+        
+        
+
+        return df[["datetime", "open", "high", "low", "close", "volume"]]
 
     except Exception as e:
         logging.error(f"Error fetching data for {stock}: {e}")

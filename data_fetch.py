@@ -50,7 +50,7 @@ def init_db():
                 high REAL,
                 low REAL,
                 close REAL,
-                volume REAL
+                volume INTEGER
             )
         """)
     conn.commit()
@@ -64,8 +64,11 @@ def insert_data(stock, df):
 
     # Convert datetime column to string
     df["datetime"] = df["datetime"].astype(str)
+    df["volume"] = df["volume"].astype(int)
+    print("My data is \n",df.head(2))
 
-    rows = df[["datetime", "open", "high", "low", "close", "volume"]].to_records(index=False)
+    rows = df[["datetime", "open", "high", "low", "close", "volume"]].values.tolist()
+    print("rows", rows[:2])
 
     cursor.executemany(
         f"""
@@ -97,14 +100,14 @@ def fetch_stock_data(stock):
             return None
 
         # Reset index to get datetime as column
-        # df = df.droplevel('Ticker', axis=1)
+        df = df.droplevel('Ticker', axis=1)
         df.reset_index(inplace=True)
 
         # Convert timezone to IST
         df["Datetime"] = df["Datetime"].dt.tz_convert(IST)
-        print("My data is \n",df.head(2))
-        df["Volume"] = pd.to_numeric(df["Volume"], errors="coerce").fillna(0).astype(int)
         
+        df["Volume"] = pd.to_numeric(df["Volume"], errors="coerce").fillna(0).astype(int)
+        df["Volume"] = df["Volume"] * 1 
 
         df.rename(columns={
             "Datetime": "datetime",
@@ -115,7 +118,8 @@ def fetch_stock_data(stock):
             "Volume": "volume"
         }, inplace=True)
 
-        df['volume'] = df['volume'].apply(lambda x: int.from_bytes(x, byteorder='little', signed=False))
+        # df['volume'] = df['volume'].apply(lambda x: int.from_bytes(x, byteorder='little', signed=False))
+        
         
 
         return df[["datetime", "open", "high", "low", "close", "volume"]]
