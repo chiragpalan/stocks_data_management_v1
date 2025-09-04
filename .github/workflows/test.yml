@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install yfinance pandas tabulate pytz
+          pip install requirements.txt
 
       - name: Run data fetch script
         run: python data_fetch.py
