@@ -9284,3 +9284,45 @@
 2025-09-04 07:38:12,322 - ERROR - Error fetching data for ONGC.NS: arg must be a list, tuple, 1-d array, or Series
 2025-09-04 07:38:12,322 - WARNING - No data to insert for ONGC.NS
 2025-09-04 07:38:12,334 - INFO - Cycle complete. README updated.
+2025-09-04 07:39:09,033 - INFO - Starting data fetch cycle...
+2025-09-04 07:39:09,476 - ERROR - Error fetching data for RELIANCE.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:09,476 - WARNING - No data to insert for RELIANCE.NS
+2025-09-04 07:39:09,640 - ERROR - Error fetching data for HDFCBANK.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:09,640 - WARNING - No data to insert for HDFCBANK.NS
+2025-09-04 07:39:09,787 - ERROR - Error fetching data for ICICIBANK.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:09,787 - WARNING - No data to insert for ICICIBANK.NS
+2025-09-04 07:39:09,940 - ERROR - Error fetching data for INFY.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:09,940 - WARNING - No data to insert for INFY.NS
+2025-09-04 07:39:10,088 - ERROR - Error fetching data for TCS.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:10,088 - WARNING - No data to insert for TCS.NS
+2025-09-04 07:39:10,249 - ERROR - Error fetching data for ITC.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:10,249 - WARNING - No data to insert for ITC.NS
+2025-09-04 07:39:10,409 - ERROR - Error fetching data for HINDUNILVR.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:10,409 - WARNING - No data to insert for HINDUNILVR.NS
+2025-09-04 07:39:10,563 - ERROR - Error fetching data for SBIN.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:10,563 - WARNING - No data to insert for SBIN.NS
+2025-09-04 07:39:10,703 - ERROR - Error fetching data for BHARTIARTL.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:10,703 - WARNING - No data to insert for BHARTIARTL.NS
+2025-09-04 07:39:10,857 - ERROR - Error fetching data for KOTAKBANK.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:10,857 - WARNING - No data to insert for KOTAKBANK.NS
+2025-09-04 07:39:11,008 - ERROR - Error fetching data for LT.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,008 - WARNING - No data to insert for LT.NS
+2025-09-04 07:39:11,172 - ERROR - Error fetching data for AXISBANK.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,172 - WARNING - No data to insert for AXISBANK.NS
+2025-09-04 07:39:11,320 - ERROR - Error fetching data for BAJFINANCE.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,320 - WARNING - No data to insert for BAJFINANCE.NS
+2025-09-04 07:39:11,475 - ERROR - Error fetching data for ASIANPAINT.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,475 - WARNING - No data to insert for ASIANPAINT.NS
+2025-09-04 07:39:11,629 - ERROR - Error fetching data for MARUTI.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,629 - WARNING - No data to insert for MARUTI.NS
+2025-09-04 07:39:11,790 - ERROR - Error fetching data for SUNPHARMA.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,790 - WARNING - No data to insert for SUNPHARMA.NS
+2025-09-04 07:39:11,980 - ERROR - Error fetching data for WIPRO.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:11,980 - WARNING - No data to insert for WIPRO.NS
+2025-09-04 07:39:12,129 - ERROR - Error fetching data for POWERGRID.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:12,129 - WARNING - No data to insert for POWERGRID.NS
+2025-09-04 07:39:12,282 - ERROR - Error fetching data for NTPC.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:12,282 - WARNING - No data to insert for NTPC.NS
+2025-09-04 07:39:12,445 - ERROR - Error fetching data for ONGC.NS: arg must be a list, tuple, 1-d array, or Series
+2025-09-04 07:39:12,445 - WARNING - No data to insert for ONGC.NS
+2025-09-04 07:39:12,457 - INFO - Cycle complete. README updated.
