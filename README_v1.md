@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-05 16:02:13 IST
+Last updated: 2025-09-05 16:17:10 IST
 
 ## RELIANCE.NS
 
@@ -118,8 +118,8 @@ Last updated: 2025-09-05 16:02:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-05 15:29:00+05:30</td><td>14895.0</td><td>922</td></tr>
   <tr><td>2025-09-05 15:28:00+05:30</td><td>14912.0</td><td>1186</td></tr>
-  <tr><td>2025-09-05 15:27:00+05:30</td><td>14923.0</td><td>796</td></tr>
 </table>
 
 ## SUNPHARMA.NS
