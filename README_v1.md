@@ -1,29 +1,29 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-15 15:40:10 IST
+Last updated: 2025-09-15 16:02:43 IST
 
 ## RELIANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>1399.300048828125</td><td>9113</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>1398.9000244140625</td><td>24446</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>1399.0999755859375</td><td>28001</td></tr>
 </table>
 
 ## HDFCBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>967.0499877929688</td><td>18814</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>966.5</td><td>91680</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>966.0499877929688</td><td>84370</td></tr>
 </table>
 
 ## ICICIBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>1419.4000244140625</td><td>15111</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>1418.199951171875</td><td>35883</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>1418.800048828125</td><td>33268</td></tr>
 </table>
 
 ## INFY.NS
@@ -62,8 +62,8 @@ Last updated: 2025-09-15 15:40:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>824.75</td><td>14838</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>824.0</td><td>15817</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>824.4000244140625</td><td>20878</td></tr>
 </table>
 
 ## BHARTIARTL.NS
@@ -78,8 +78,8 @@ Last updated: 2025-09-15 15:40:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>1970.800048828125</td><td>5317</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>1970.0</td><td>43138</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>1969.4000244140625</td><td>19794</td></tr>
 </table>
 
 ## LT.NS
@@ -134,8 +134,8 @@ Last updated: 2025-09-15 15:40:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>251.27999877929688</td><td>14214</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>251.3699951171875</td><td>16787</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>251.5800018310547</td><td>18421</td></tr>
 </table>
 
 ## POWERGRID.NS
@@ -158,7 +158,7 @@ Last updated: 2025-09-15 15:40:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-15 15:29:00+05:30</td><td>232.25999450683594</td><td>31323</td></tr>
   <tr><td>2025-09-15 15:28:00+05:30</td><td>232.44000244140625</td><td>29886</td></tr>
-  <tr><td>2025-09-15 15:27:00+05:30</td><td>232.42999267578125</td><td>67016</td></tr>
 </table>
 
