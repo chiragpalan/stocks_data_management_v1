@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-17 15:39:56 IST
+Last updated: 2025-09-17 16:01:49 IST
 
 ## RELIANCE.NS
 
@@ -62,8 +62,8 @@ Last updated: 2025-09-17 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-17 15:29:00+05:30</td><td>857.1500244140625</td><td>48428</td></tr>
   <tr><td>2025-09-17 15:28:00+05:30</td><td>856.5999755859375</td><td>32059</td></tr>
-  <tr><td>2025-09-17 15:27:00+05:30</td><td>856.5999755859375</td><td>38686</td></tr>
 </table>
 
 ## BHARTIARTL.NS
@@ -86,24 +86,24 @@ Last updated: 2025-09-17 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-17 15:29:00+05:30</td><td>3685.5</td><td>2883</td></tr>
   <tr><td>2025-09-17 15:28:00+05:30</td><td>3686.39990234375</td><td>7160</td></tr>
-  <tr><td>2025-09-17 15:27:00+05:30</td><td>3687.0</td><td>12778</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-17 15:29:00+05:30</td><td>1126.0</td><td>21012</td></tr>
   <tr><td>2025-09-17 15:28:00+05:30</td><td>1126.4000244140625</td><td>90987</td></tr>
-  <tr><td>2025-09-17 15:27:00+05:30</td><td>1125.699951171875</td><td>62097</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-17 15:29:00+05:30</td><td>1007.5</td><td>13459</td></tr>
   <tr><td>2025-09-17 15:28:00+05:30</td><td>1008.9000244140625</td><td>83716</td></tr>
-  <tr><td>2025-09-17 15:27:00+05:30</td><td>1008.8499755859375</td><td>24240</td></tr>
 </table>
 
 ## ASIANPAINT.NS
@@ -118,16 +118,16 @@ Last updated: 2025-09-17 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-17 15:29:00+05:30</td><td>15801.0</td><td>2031</td></tr>
   <tr><td>2025-09-17 15:28:00+05:30</td><td>15802.0</td><td>2665</td></tr>
-  <tr><td>2025-09-17 15:27:00+05:30</td><td>15805.0</td><td>5065</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-17 15:29:00+05:30</td><td>1620.199951171875</td><td>5309</td></tr>
   <tr><td>2025-09-17 15:28:00+05:30</td><td>1618.5999755859375</td><td>13135</td></tr>
-  <tr><td>2025-09-17 15:27:00+05:30</td><td>1622.0999755859375</td><td>12701</td></tr>
 </table>
 
 ## WIPRO.NS
