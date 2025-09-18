@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-18 15:39:56 IST
+Last updated: 2025-09-18 16:01:52 IST
 
 ## RELIANCE.NS
 
@@ -38,16 +38,16 @@ Last updated: 2025-09-18 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-18 15:29:00+05:30</td><td>3176.699951171875</td><td>7330</td></tr>
   <tr><td>2025-09-18 15:28:00+05:30</td><td>3172.800048828125</td><td>14110</td></tr>
-  <tr><td>2025-09-18 15:27:00+05:30</td><td>3176.60009765625</td><td>19501</td></tr>
 </table>
 
 ## ITC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-18 15:29:00+05:30</td><td>411.54998779296875</td><td>22248</td></tr>
   <tr><td>2025-09-18 15:28:00+05:30</td><td>412.20001220703125</td><td>136521</td></tr>
-  <tr><td>2025-09-18 15:27:00+05:30</td><td>412.25</td><td>62387</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -70,16 +70,16 @@ Last updated: 2025-09-18 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-18 15:29:00+05:30</td><td>1941.0999755859375</td><td>7059</td></tr>
   <tr><td>2025-09-18 15:28:00+05:30</td><td>1939.4000244140625</td><td>13167</td></tr>
-  <tr><td>2025-09-18 15:27:00+05:30</td><td>1939.5</td><td>31978</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-18 15:29:00+05:30</td><td>2054.60009765625</td><td>5030</td></tr>
   <tr><td>2025-09-18 15:28:00+05:30</td><td>2050.5</td><td>8386</td></tr>
-  <tr><td>2025-09-18 15:27:00+05:30</td><td>2053.300048828125</td><td>19782</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2025-09-18 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-18 15:29:00+05:30</td><td>1133.0</td><td>21354</td></tr>
   <tr><td>2025-09-18 15:28:00+05:30</td><td>1131.0</td><td>36416</td></tr>
-  <tr><td>2025-09-18 15:27:00+05:30</td><td>1133.800048828125</td><td>42952</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -118,8 +118,8 @@ Last updated: 2025-09-18 15:39:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-18 15:29:00+05:30</td><td>15817.0</td><td>559</td></tr>
   <tr><td>2025-09-18 15:28:00+05:30</td><td>15808.0</td><td>2609</td></tr>
-  <tr><td>2025-09-18 15:27:00+05:30</td><td>15820.0</td><td>2749</td></tr>
 </table>
 
 ## SUNPHARMA.NS
