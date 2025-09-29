@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-29 15:48:27 IST
+Last updated: 2025-09-29 16:14:07 IST
 
 ## RELIANCE.NS
 
@@ -78,8 +78,8 @@ Last updated: 2025-09-29 15:48:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-29 15:29:00+05:30</td><td>1991.5999755859375</td><td>10475</td></tr>
   <tr><td>2025-09-29 15:28:00+05:30</td><td>1990.0</td><td>11925</td></tr>
-  <tr><td>2025-09-29 15:27:00+05:30</td><td>1991.699951171875</td><td>48272</td></tr>
 </table>
 
 ## LT.NS
@@ -110,8 +110,8 @@ Last updated: 2025-09-29 15:48:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-29 15:29:00+05:30</td><td>2342.60009765625</td><td>2148</td></tr>
   <tr><td>2025-09-29 15:28:00+05:30</td><td>2350.0</td><td>5384</td></tr>
-  <tr><td>2025-09-29 15:27:00+05:30</td><td>2350.199951171875</td><td>13710</td></tr>
 </table>
 
 ## MARUTI.NS
@@ -134,8 +134,8 @@ Last updated: 2025-09-29 15:48:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-29 15:29:00+05:30</td><td>239.63999938964844</td><td>36216</td></tr>
   <tr><td>2025-09-29 15:28:00+05:30</td><td>239.39999389648438</td><td>25835</td></tr>
-  <tr><td>2025-09-29 15:27:00+05:30</td><td>239.4600067138672</td><td>79993</td></tr>
 </table>
 
 ## POWERGRID.NS
@@ -150,15 +150,15 @@ Last updated: 2025-09-29 15:48:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-29 15:29:00+05:30</td><td>340.95001220703125</td><td>46386</td></tr>
   <tr><td>2025-09-29 15:28:00+05:30</td><td>342.5</td><td>142457</td></tr>
-  <tr><td>2025-09-29 15:27:00+05:30</td><td>342.8999938964844</td><td>189704</td></tr>
 </table>
 
 ## ONGC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-29 15:29:00+05:30</td><td>239.97999572753906</td><td>42453</td></tr>
   <tr><td>2025-09-29 15:28:00+05:30</td><td>240.3000030517578</td><td>11153</td></tr>
-  <tr><td>2025-09-29 15:27:00+05:30</td><td>240.05999755859375</td><td>111339</td></tr>
 </table>
 
