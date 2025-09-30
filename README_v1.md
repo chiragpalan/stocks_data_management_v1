@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-09-30 15:39:51 IST
+Last updated: 2025-09-30 16:03:32 IST
 
 ## RELIANCE.NS
 
@@ -22,8 +22,8 @@ Last updated: 2025-09-30 15:39:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>1348.0</td><td>27852</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>1347.0999755859375</td><td>74468</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>1347.9000244140625</td><td>135743</td></tr>
 </table>
 
 ## INFY.NS
@@ -54,8 +54,8 @@ Last updated: 2025-09-30 15:39:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>2514.39990234375</td><td>5555</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>2521.60009765625</td><td>20550</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>2519.60009765625</td><td>21065</td></tr>
 </table>
 
 ## SBIN.NS
@@ -78,56 +78,56 @@ Last updated: 2025-09-30 15:39:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>1992.699951171875</td><td>4508</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>1995.4000244140625</td><td>19912</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>1996.0</td><td>38235</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>3659.0</td><td>11011</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>3655.300048828125</td><td>6653</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>3656.699951171875</td><td>11288</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>1131.5999755859375</td><td>14711</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>1128.199951171875</td><td>39238</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>1130.9000244140625</td><td>72323</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>998.9000244140625</td><td>11473</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>997.5</td><td>42096</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>997.8499755859375</td><td>64083</td></tr>
 </table>
 
 ## ASIANPAINT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>2350.0</td><td>2949</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>2351.800048828125</td><td>6874</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>2349.5</td><td>16052</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>16029.0</td><td>655</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>16020.0</td><td>2992</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>16031.0</td><td>3682</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>1594.300048828125</td><td>8724</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>1594.4000244140625</td><td>31740</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>1595.199951171875</td><td>42115</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -142,8 +142,8 @@ Last updated: 2025-09-30 15:39:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>280.25</td><td>55368</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>280.1000061035156</td><td>124024</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>280.0</td><td>125425</td></tr>
 </table>
 
 ## NTPC.NS
@@ -158,7 +158,7 @@ Last updated: 2025-09-30 15:39:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-09-30 15:29:00+05:30</td><td>239.5</td><td>37361</td></tr>
   <tr><td>2025-09-30 15:28:00+05:30</td><td>239.47000122070312</td><td>232364</td></tr>
-  <tr><td>2025-09-30 15:27:00+05:30</td><td>239.49000549316406</td><td>81211</td></tr>
 </table>
 
