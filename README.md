@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-06 15:48:35 IST
+Last updated: 2025-10-06 16:12:41 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2025-10-06 15:48:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-06 15:29:00+05:30</td><td>1476.0</td><td>23879</td></tr>
   <tr><td>2025-10-06 15:28:00+05:30</td><td>1475.699951171875</td><td>13814</td></tr>
-  <tr><td>2025-10-06 15:27:00+05:30</td><td>1477.4000244140625</td><td>32247</td></tr>
 </table>
 
 ## TCS.NS
@@ -70,8 +70,8 @@ Last updated: 2025-10-06 15:48:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-06 15:29:00+05:30</td><td>1903.0999755859375</td><td>11331</td></tr>
   <tr><td>2025-10-06 15:28:00+05:30</td><td>1903.0</td><td>9773</td></tr>
-  <tr><td>2025-10-06 15:27:00+05:30</td><td>1903.800048828125</td><td>19177</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -94,24 +94,24 @@ Last updated: 2025-10-06 15:48:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-06 15:29:00+05:30</td><td>1212.800048828125</td><td>18780</td></tr>
   <tr><td>2025-10-06 15:28:00+05:30</td><td>1209.0</td><td>36316</td></tr>
-  <tr><td>2025-10-06 15:27:00+05:30</td><td>1209.800048828125</td><td>38459</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-06 15:29:00+05:30</td><td>1008.9000244140625</td><td>15532</td></tr>
   <tr><td>2025-10-06 15:28:00+05:30</td><td>1009.8499755859375</td><td>21525</td></tr>
-  <tr><td>2025-10-06 15:27:00+05:30</td><td>1010.9000244140625</td><td>34030</td></tr>
 </table>
 
 ## ASIANPAINT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-06 15:29:00+05:30</td><td>2354.800048828125</td><td>892</td></tr>
   <tr><td>2025-10-06 15:28:00+05:30</td><td>2356.0</td><td>1631</td></tr>
-  <tr><td>2025-10-06 15:27:00+05:30</td><td>2356.39990234375</td><td>3434</td></tr>
 </table>
 
 ## MARUTI.NS
