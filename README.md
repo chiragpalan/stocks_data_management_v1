@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-07 15:47:39 IST
+Last updated: 2025-10-07 16:12:06 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-10-07 15:47:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>982.5</td><td>20060</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>982.2000122070312</td><td>39957</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>981.9500122070312</td><td>68050</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -30,8 +30,8 @@ Last updated: 2025-10-07 15:47:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>1458.5</td><td>9325</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>1458.800048828125</td><td>24451</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>1458.300048828125</td><td>19965</td></tr>
 </table>
 
 ## TCS.NS
@@ -78,8 +78,8 @@ Last updated: 2025-10-07 15:47:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>2126.89990234375</td><td>4081</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>2126.199951171875</td><td>4908</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>2127.800048828125</td><td>13449</td></tr>
 </table>
 
 ## LT.NS
@@ -110,8 +110,8 @@ Last updated: 2025-10-07 15:47:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>2352.800048828125</td><td>786</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>2356.699951171875</td><td>3364</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>2353.89990234375</td><td>4105</td></tr>
 </table>
 
 ## MARUTI.NS
@@ -126,16 +126,16 @@ Last updated: 2025-10-07 15:47:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>1653.0999755859375</td><td>1747</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>1654.5999755859375</td><td>4715</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>1656.0</td><td>16901</td></tr>
 </table>
 
 ## WIPRO.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>243.52999877929688</td><td>13849</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>243.88999938964844</td><td>47216</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>243.8000030517578</td><td>31601</td></tr>
 </table>
 
 ## POWERGRID.NS
