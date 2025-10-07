@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-07 16:02:54 IST
+Last updated: 2025-10-07 16:18:09 IST
 
 ## RELIANCE.NS
 
@@ -110,8 +110,8 @@ Last updated: 2025-10-07 16:02:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-07 15:29:00+05:30</td><td>2352.800048828125</td><td>786</td></tr>
   <tr><td>2025-10-07 15:28:00+05:30</td><td>2356.699951171875</td><td>3364</td></tr>
-  <tr><td>2025-10-07 15:27:00+05:30</td><td>2353.89990234375</td><td>4105</td></tr>
 </table>
 
 ## MARUTI.NS
