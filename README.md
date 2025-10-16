@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-16 15:49:25 IST
+Last updated: 2025-10-16 16:13:52 IST
 
 ## RELIANCE.NS
 
@@ -22,8 +22,8 @@ Last updated: 2025-10-16 15:49:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-16 15:29:00+05:30</td><td>1417.300048828125</td><td>29500</td></tr>
   <tr><td>2025-10-16 15:28:00+05:30</td><td>1417.5999755859375</td><td>38642</td></tr>
-  <tr><td>2025-10-16 15:27:00+05:30</td><td>1417.9000244140625</td><td>76570</td></tr>
 </table>
 
 ## INFY.NS
@@ -70,8 +70,8 @@ Last updated: 2025-10-16 15:49:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-16 15:29:00+05:30</td><td>1967.4000244140625</td><td>2838</td></tr>
   <tr><td>2025-10-16 15:28:00+05:30</td><td>1969.5</td><td>16136</td></tr>
-  <tr><td>2025-10-16 15:27:00+05:30</td><td>1969.0999755859375</td><td>16775</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -118,16 +118,16 @@ Last updated: 2025-10-16 15:49:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-16 15:29:00+05:30</td><td>16298.0</td><td>581</td></tr>
   <tr><td>2025-10-16 15:28:00+05:30</td><td>16303.0</td><td>3298</td></tr>
-  <tr><td>2025-10-16 15:27:00+05:30</td><td>16297.0</td><td>1754</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-16 15:29:00+05:30</td><td>1659.0</td><td>3348</td></tr>
   <tr><td>2025-10-16 15:28:00+05:30</td><td>1658.0</td><td>8232</td></tr>
-  <tr><td>2025-10-16 15:27:00+05:30</td><td>1657.800048828125</td><td>12660</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -158,7 +158,7 @@ Last updated: 2025-10-16 15:49:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-16 15:29:00+05:30</td><td>248.35000610351562</td><td>12289</td></tr>
   <tr><td>2025-10-16 15:28:00+05:30</td><td>248.60000610351562</td><td>19133</td></tr>
-  <tr><td>2025-10-16 15:27:00+05:30</td><td>248.52999877929688</td><td>51123</td></tr>
 </table>
 
