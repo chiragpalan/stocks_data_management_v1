@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-17 15:48:18 IST
+Last updated: 2025-10-17 16:12:17 IST
 
 ## RELIANCE.NS
 
@@ -38,8 +38,8 @@ Last updated: 2025-10-17 15:48:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-17 15:29:00+05:30</td><td>2962.199951171875</td><td>7407</td></tr>
   <tr><td>2025-10-17 15:28:00+05:30</td><td>2963.300048828125</td><td>6081</td></tr>
-  <tr><td>2025-10-17 15:27:00+05:30</td><td>2962.39990234375</td><td>11641</td></tr>
 </table>
 
 ## ITC.NS
@@ -62,24 +62,24 @@ Last updated: 2025-10-17 15:48:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-17 15:29:00+05:30</td><td>889.1500244140625</td><td>22642</td></tr>
   <tr><td>2025-10-17 15:28:00+05:30</td><td>888.1500244140625</td><td>25512</td></tr>
-  <tr><td>2025-10-17 15:27:00+05:30</td><td>889.0999755859375</td><td>31690</td></tr>
 </table>
 
 ## BHARTIARTL.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-17 15:29:00+05:30</td><td>2012.0</td><td>13532</td></tr>
   <tr><td>2025-10-17 15:28:00+05:30</td><td>2009.0</td><td>22744</td></tr>
-  <tr><td>2025-10-17 15:27:00+05:30</td><td>2008.0</td><td>21362</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-17 15:29:00+05:30</td><td>2205.800048828125</td><td>3343</td></tr>
   <tr><td>2025-10-17 15:28:00+05:30</td><td>2201.0</td><td>8311</td></tr>
-  <tr><td>2025-10-17 15:27:00+05:30</td><td>2205.699951171875</td><td>26430</td></tr>
 </table>
 
 ## LT.NS
@@ -110,8 +110,8 @@ Last updated: 2025-10-17 15:48:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-17 15:29:00+05:30</td><td>2507.800048828125</td><td>3943</td></tr>
   <tr><td>2025-10-17 15:28:00+05:30</td><td>2507.39990234375</td><td>4322</td></tr>
-  <tr><td>2025-10-17 15:27:00+05:30</td><td>2506.699951171875</td><td>7277</td></tr>
 </table>
 
 ## MARUTI.NS
@@ -126,8 +126,8 @@ Last updated: 2025-10-17 15:48:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-17 15:29:00+05:30</td><td>1679.0999755859375</td><td>6622</td></tr>
   <tr><td>2025-10-17 15:28:00+05:30</td><td>1680.0</td><td>8492</td></tr>
-  <tr><td>2025-10-17 15:27:00+05:30</td><td>1680.0</td><td>17873</td></tr>
 </table>
 
 ## WIPRO.NS
