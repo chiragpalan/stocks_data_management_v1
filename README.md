@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-21 15:11:23 IST
+Last updated: 2025-10-21 15:20:52 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-10-21 15:11:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>1004.0</td><td>1179</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>1005.0</td><td>22877</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>1005.9000244140625</td><td>42448</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -38,16 +38,16 @@ Last updated: 2025-10-21 15:11:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>3000.0</td><td>493</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>3000.0</td><td>5913</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>3000.89990234375</td><td>4380</td></tr>
 </table>
 
 ## ITC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>412.5</td><td>1078</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>412.79998779296875</td><td>6676</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>412.8500061035156</td><td>12860</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -102,8 +102,8 @@ Last updated: 2025-10-21 15:11:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>1086.0</td><td>139</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>1086.0</td><td>6774</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>1086.300048828125</td><td>6566</td></tr>
 </table>
 
 ## ASIANPAINT.NS
@@ -142,8 +142,8 @@ Last updated: 2025-10-21 15:11:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>288.70001220703125</td><td>2182</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>288.6499938964844</td><td>5539</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>288.6000061035156</td><td>2242</td></tr>
 </table>
 
 ## NTPC.NS
