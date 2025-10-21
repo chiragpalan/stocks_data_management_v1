@@ -1,13 +1,13 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-21 15:20:52 IST
+Last updated: 2025-10-21 15:48:35 IST
 
 ## RELIANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>1461.0</td><td>767</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>1461.0</td><td>27978</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>1461.5999755859375</td><td>14487</td></tr>
 </table>
 
 ## HDFCBANK.NS
@@ -22,16 +22,16 @@ Last updated: 2025-10-21 15:20:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>1381.300048828125</td><td>3949</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>1381.300048828125</td><td>48013</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>1381.0</td><td>23262</td></tr>
 </table>
 
 ## INFY.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>1471.0</td><td>1958</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>1470.9000244140625</td><td>19991</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>1471.0</td><td>11995</td></tr>
 </table>
 
 ## TCS.NS
@@ -62,8 +62,8 @@ Last updated: 2025-10-21 15:20:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>907.0499877929688</td><td>1543</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>907.0499877929688</td><td>10591</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>907.2999877929688</td><td>15720</td></tr>
 </table>
 
 ## BHARTIARTL.NS
@@ -78,8 +78,8 @@ Last updated: 2025-10-21 15:20:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>2192.0</td><td>297</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>2192.0</td><td>3400</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>2194.10009765625</td><td>2317</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2025-10-21 15:20:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>1233.0</td><td>228</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>1233.0</td><td>9244</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>1233.199951171875</td><td>6456</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -134,8 +134,8 @@ Last updated: 2025-10-21 15:20:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-21 14:45:00+05:30</td><td>241.19000244140625</td><td>6191</td></tr>
   <tr><td>2025-10-21 14:44:00+05:30</td><td>241.19000244140625</td><td>23067</td></tr>
-  <tr><td>2025-10-21 14:43:00+05:30</td><td>241.19000244140625</td><td>18348</td></tr>
 </table>
 
 ## POWERGRID.NS
