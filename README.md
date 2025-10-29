@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-29 15:49:07 IST
+Last updated: 2025-10-29 16:15:15 IST
 
 ## RELIANCE.NS
 
@@ -22,8 +22,8 @@ Last updated: 2025-10-29 15:49:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>1370.4000244140625</td><td>31947</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>1371.5</td><td>25012</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>1371.0999755859375</td><td>32127</td></tr>
 </table>
 
 ## INFY.NS
@@ -38,8 +38,8 @@ Last updated: 2025-10-29 15:49:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>3057.60009765625</td><td>5786</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>3060.89990234375</td><td>11906</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>3060.60009765625</td><td>11066</td></tr>
 </table>
 
 ## ITC.NS
@@ -62,8 +62,8 @@ Last updated: 2025-10-29 15:49:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>939.75</td><td>33103</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>939.0</td><td>45074</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>939.1500244140625</td><td>88657</td></tr>
 </table>
 
 ## BHARTIARTL.NS
@@ -94,8 +94,8 @@ Last updated: 2025-10-29 15:49:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>1248.800048828125</td><td>2589</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>1248.0</td><td>11284</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>1247.800048828125</td><td>15420</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -110,24 +110,24 @@ Last updated: 2025-10-29 15:49:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>2538.699951171875</td><td>1433</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>2539.39990234375</td><td>7348</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>2544.0</td><td>4162</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>16138.0</td><td>658</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>16144.0</td><td>2020</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>16126.0</td><td>3099</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-10-29 15:29:00+05:30</td><td>1715.9000244140625</td><td>4601</td></tr>
   <tr><td>2025-10-29 15:28:00+05:30</td><td>1706.0999755859375</td><td>12063</td></tr>
-  <tr><td>2025-10-29 15:27:00+05:30</td><td>1719.199951171875</td><td>4822</td></tr>
 </table>
 
 ## WIPRO.NS
