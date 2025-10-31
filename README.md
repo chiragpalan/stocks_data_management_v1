@@ -1,164 +1,164 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-10-31 14:48:58 IST
+Last updated: 2025-10-31 15:11:12 IST
 
 ## RELIANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>1488.0999755859375</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>1488.0</td><td>4950</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>1486.5</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>1486.5999755859375</td><td>129636</td></tr>
 </table>
 
 ## HDFCBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>987.5499877929688</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>987.7999877929688</td><td>42999</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>987.3499755859375</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>987.2000122070312</td><td>322971</td></tr>
 </table>
 
 ## ICICIBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>1348.5</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>1349.0999755859375</td><td>30450</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>1345.699951171875</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>1345.699951171875</td><td>178162</td></tr>
 </table>
 
 ## INFY.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>1483.5</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>1483.199951171875</td><td>5545</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>1483.0</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>1482.9000244140625</td><td>75311</td></tr>
 </table>
 
 ## TCS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>3062.800048828125</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>3061.199951171875</td><td>6210</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>3057.800048828125</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>3057.89990234375</td><td>16568</td></tr>
 </table>
 
 ## ITC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>420.75</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>420.6000061035156</td><td>19362</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>420.45001220703125</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>420.6499938964844</td><td>143307</td></tr>
 </table>
 
 ## HINDUNILVR.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>2467.5</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>2467.5</td><td>1436</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>2467.199951171875</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>2467.300048828125</td><td>13404</td></tr>
 </table>
 
 ## SBIN.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>938.6500244140625</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>938.5999755859375</td><td>7604</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>935.9000244140625</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>935.9000244140625</td><td>82277</td></tr>
 </table>
 
 ## BHARTIARTL.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>2060.10009765625</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>2059.89990234375</td><td>59386</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>2053.300048828125</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>2053.39990234375</td><td>63843</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>2108.699951171875</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>2108.60009765625</td><td>5001</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>2102.39990234375</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>2102.10009765625</td><td>75740</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>4030.0</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>4030.0</td><td>3389</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>4032.5</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>4032.300048828125</td><td>11333</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>1235.0</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>1235.0</td><td>3962</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>1232.0</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>1232.0</td><td>74998</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>1048.6500244140625</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>1048.300048828125</td><td>4683</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>1042.449951171875</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>1042.5</td><td>89484</td></tr>
 </table>
 
 ## ASIANPAINT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>2518.39990234375</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>2518.39990234375</td><td>212</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>2511.39990234375</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>2511.800048828125</td><td>8981</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>16104.0</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>16111.0</td><td>1189</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>16196.0</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>16200.0</td><td>3739</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>1698.5</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>1698.800048828125</td><td>2852</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>1689.699951171875</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>1689.699951171875</td><td>13808</td></tr>
 </table>
 
 ## WIPRO.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>241.39999389648438</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>241.38999938964844</td><td>3653</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>240.6199951171875</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>240.6300048828125</td><td>66078</td></tr>
 </table>
 
 ## POWERGRID.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>287.75</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>287.95001220703125</td><td>38416</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>288.1499938964844</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>288.1499938964844</td><td>154820</td></tr>
 </table>
 
 ## NTPC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>336.45001220703125</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>336.3500061035156</td><td>29746</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>337.0</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>337.0</td><td>130674</td></tr>
 </table>
 
 ## ONGC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2025-10-31 14:48:00+05:30</td><td>255.74000549316406</td><td>0</td></tr>
-  <tr><td>2025-10-31 14:47:00+05:30</td><td>255.77999877929688</td><td>57986</td></tr>
+  <tr><td>2025-10-31 15:11:00+05:30</td><td>255.11000061035156</td><td>0</td></tr>
+  <tr><td>2025-10-31 15:10:00+05:30</td><td>255.16000366210938</td><td>55653</td></tr>
 </table>
 
