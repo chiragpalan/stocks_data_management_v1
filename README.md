@@ -1,13 +1,13 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-04 15:50:25 IST
+Last updated: 2025-11-04 16:17:17 IST
 
 ## RELIANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-04 15:29:00+05:30</td><td>1473.0999755859375</td><td>16047</td></tr>
   <tr><td>2025-11-04 15:28:00+05:30</td><td>1471.5</td><td>32805</td></tr>
-  <tr><td>2025-11-04 15:27:00+05:30</td><td>1472.300048828125</td><td>46841</td></tr>
 </table>
 
 ## HDFCBANK.NS
@@ -46,8 +46,8 @@ Last updated: 2025-11-04 15:50:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-04 15:29:00+05:30</td><td>408.8999938964844</td><td>23859</td></tr>
   <tr><td>2025-11-04 15:28:00+05:30</td><td>409.04998779296875</td><td>76982</td></tr>
-  <tr><td>2025-11-04 15:27:00+05:30</td><td>409.0</td><td>50763</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -78,8 +78,8 @@ Last updated: 2025-11-04 15:50:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-04 15:29:00+05:30</td><td>2096.60009765625</td><td>3841</td></tr>
   <tr><td>2025-11-04 15:28:00+05:30</td><td>2095.0</td><td>12921</td></tr>
-  <tr><td>2025-11-04 15:27:00+05:30</td><td>2094.699951171875</td><td>20800</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2025-11-04 15:50:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-04 15:29:00+05:30</td><td>1226.5999755859375</td><td>10544</td></tr>
   <tr><td>2025-11-04 15:28:00+05:30</td><td>1227.0999755859375</td><td>12687</td></tr>
-  <tr><td>2025-11-04 15:27:00+05:30</td><td>1227.0999755859375</td><td>30808</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,8 +126,8 @@ Last updated: 2025-11-04 15:50:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-04 15:29:00+05:30</td><td>1690.0</td><td>5684</td></tr>
   <tr><td>2025-11-04 15:28:00+05:30</td><td>1698.300048828125</td><td>29114</td></tr>
-  <tr><td>2025-11-04 15:27:00+05:30</td><td>1696.0</td><td>12212</td></tr>
 </table>
 
 ## WIPRO.NS
