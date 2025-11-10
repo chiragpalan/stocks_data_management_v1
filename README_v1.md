@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-10 15:42:16 IST
+Last updated: 2025-11-10 16:07:35 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-11-10 15:42:16 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-10 15:29:00+05:30</td><td>984.5</td><td>44464</td></tr>
   <tr><td>2025-11-10 15:28:00+05:30</td><td>983.9000244140625</td><td>61635</td></tr>
-  <tr><td>2025-11-10 15:27:00+05:30</td><td>983.8499755859375</td><td>112183</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -38,8 +38,8 @@ Last updated: 2025-11-10 15:42:16 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-10 15:29:00+05:30</td><td>3025.199951171875</td><td>5346</td></tr>
   <tr><td>2025-11-10 15:28:00+05:30</td><td>3026.0</td><td>3658</td></tr>
-  <tr><td>2025-11-10 15:27:00+05:30</td><td>3026.0</td><td>12499</td></tr>
 </table>
 
 ## ITC.NS
@@ -78,24 +78,24 @@ Last updated: 2025-11-10 15:42:16 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-10 15:29:00+05:30</td><td>2092.699951171875</td><td>5440</td></tr>
   <tr><td>2025-11-10 15:28:00+05:30</td><td>2090.0</td><td>6529</td></tr>
-  <tr><td>2025-11-10 15:27:00+05:30</td><td>2089.89990234375</td><td>22802</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-10 15:29:00+05:30</td><td>3918.5</td><td>7860</td></tr>
   <tr><td>2025-11-10 15:28:00+05:30</td><td>3913.89990234375</td><td>8256</td></tr>
-  <tr><td>2025-11-10 15:27:00+05:30</td><td>3916.89990234375</td><td>5059</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-10 15:29:00+05:30</td><td>1217.0</td><td>18554</td></tr>
   <tr><td>2025-11-10 15:28:00+05:30</td><td>1216.800048828125</td><td>19109</td></tr>
-  <tr><td>2025-11-10 15:27:00+05:30</td><td>1216.5</td><td>28390</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,8 +126,8 @@ Last updated: 2025-11-10 15:42:16 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-10 15:29:00+05:30</td><td>1697.800048828125</td><td>1791</td></tr>
   <tr><td>2025-11-10 15:28:00+05:30</td><td>1695.5999755859375</td><td>4326</td></tr>
-  <tr><td>2025-11-10 15:27:00+05:30</td><td>1692.5</td><td>12501</td></tr>
 </table>
 
 ## WIPRO.NS
