@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-13 16:07:50 IST
+Last updated: 2025-11-13 16:22:11 IST
 
 ## RELIANCE.NS
 
