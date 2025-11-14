@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-14 15:41:54 IST
+Last updated: 2025-11-14 16:06:07 IST
 
 ## RELIANCE.NS
 
@@ -22,8 +22,8 @@ Last updated: 2025-11-14 15:41:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-14 15:29:00+05:30</td><td>1373.0</td><td>20828</td></tr>
   <tr><td>2025-11-14 15:28:00+05:30</td><td>1372.199951171875</td><td>33260</td></tr>
-  <tr><td>2025-11-14 15:27:00+05:30</td><td>1374.5</td><td>115124</td></tr>
 </table>
 
 ## INFY.NS
@@ -46,16 +46,16 @@ Last updated: 2025-11-14 15:41:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-14 15:29:00+05:30</td><td>408.1499938964844</td><td>35160</td></tr>
   <tr><td>2025-11-14 15:28:00+05:30</td><td>408.04998779296875</td><td>53774</td></tr>
-  <tr><td>2025-11-14 15:27:00+05:30</td><td>408.3500061035156</td><td>164140</td></tr>
 </table>
 
 ## HINDUNILVR.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-14 15:29:00+05:30</td><td>2427.699951171875</td><td>4192</td></tr>
   <tr><td>2025-11-14 15:28:00+05:30</td><td>2428.800048828125</td><td>5872</td></tr>
-  <tr><td>2025-11-14 15:27:00+05:30</td><td>2429.699951171875</td><td>17763</td></tr>
 </table>
 
 ## SBIN.NS
@@ -78,16 +78,16 @@ Last updated: 2025-11-14 15:41:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-14 15:29:00+05:30</td><td>2079.699951171875</td><td>5380</td></tr>
   <tr><td>2025-11-14 15:28:00+05:30</td><td>2081.10009765625</td><td>8644</td></tr>
-  <tr><td>2025-11-14 15:27:00+05:30</td><td>2084.0</td><td>27257</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-14 15:29:00+05:30</td><td>4004.39990234375</td><td>6283</td></tr>
   <tr><td>2025-11-14 15:28:00+05:30</td><td>4002.199951171875</td><td>21251</td></tr>
-  <tr><td>2025-11-14 15:27:00+05:30</td><td>4005.0</td><td>25850</td></tr>
 </table>
 
 ## AXISBANK.NS
@@ -134,8 +134,8 @@ Last updated: 2025-11-14 15:41:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-14 15:29:00+05:30</td><td>244.3699951171875</td><td>58037</td></tr>
   <tr><td>2025-11-14 15:28:00+05:30</td><td>245.02999877929688</td><td>37559</td></tr>
-  <tr><td>2025-11-14 15:27:00+05:30</td><td>245.6999969482422</td><td>43548</td></tr>
 </table>
 
 ## POWERGRID.NS
