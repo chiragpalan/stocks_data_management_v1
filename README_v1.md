@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-17 15:41:58 IST
+Last updated: 2025-11-17 16:07:33 IST
 
 ## RELIANCE.NS
 
@@ -14,24 +14,24 @@ Last updated: 2025-11-17 15:41:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-17 15:29:00+05:30</td><td>996.5499877929688</td><td>116196</td></tr>
   <tr><td>2025-11-17 15:28:00+05:30</td><td>996.0</td><td>176941</td></tr>
-  <tr><td>2025-11-17 15:27:00+05:30</td><td>996.7000122070312</td><td>167632</td></tr>
 </table>
 
 ## ICICIBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-17 15:29:00+05:30</td><td>1379.0</td><td>16954</td></tr>
   <tr><td>2025-11-17 15:28:00+05:30</td><td>1379.0999755859375</td><td>83273</td></tr>
-  <tr><td>2025-11-17 15:27:00+05:30</td><td>1378.9000244140625</td><td>58543</td></tr>
 </table>
 
 ## INFY.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-17 15:29:00+05:30</td><td>1507.5999755859375</td><td>10541</td></tr>
   <tr><td>2025-11-17 15:28:00+05:30</td><td>1507.699951171875</td><td>50131</td></tr>
-  <tr><td>2025-11-17 15:27:00+05:30</td><td>1508.0999755859375</td><td>50458</td></tr>
 </table>
 
 ## TCS.NS
@@ -54,8 +54,8 @@ Last updated: 2025-11-17 15:41:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-17 15:29:00+05:30</td><td>2425.0</td><td>1017</td></tr>
   <tr><td>2025-11-17 15:28:00+05:30</td><td>2424.0</td><td>8565</td></tr>
-  <tr><td>2025-11-17 15:27:00+05:30</td><td>2425.699951171875</td><td>5703</td></tr>
 </table>
 
 ## SBIN.NS
@@ -86,8 +86,8 @@ Last updated: 2025-11-17 15:41:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-17 15:29:00+05:30</td><td>4027.699951171875</td><td>3973</td></tr>
   <tr><td>2025-11-17 15:28:00+05:30</td><td>4028.89990234375</td><td>7331</td></tr>
-  <tr><td>2025-11-17 15:27:00+05:30</td><td>4029.39990234375</td><td>9944</td></tr>
 </table>
 
 ## AXISBANK.NS
