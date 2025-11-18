@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-18 15:42:37 IST
+Last updated: 2025-11-18 16:07:44 IST
 
 ## RELIANCE.NS
 
@@ -38,16 +38,16 @@ Last updated: 2025-11-18 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>3087.10009765625</td><td>3356</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>3080.0</td><td>10618</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>3080.5</td><td>14345</td></tr>
 </table>
 
 ## ITC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>405.8500061035156</td><td>17316</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>405.29998779296875</td><td>71046</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>405.3500061035156</td><td>22248</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -78,16 +78,16 @@ Last updated: 2025-11-18 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>2093.10009765625</td><td>3970</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>2092.800048828125</td><td>8135</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>2091.60009765625</td><td>14197</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>3999.60009765625</td><td>2406</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>3996.89990234375</td><td>7670</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>3999.39990234375</td><td>11894</td></tr>
 </table>
 
 ## AXISBANK.NS
@@ -126,8 +126,8 @@ Last updated: 2025-11-18 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>1758.800048828125</td><td>5589</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>1757.4000244140625</td><td>8393</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>1757.199951171875</td><td>17216</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -142,16 +142,16 @@ Last updated: 2025-11-18 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>274.20001220703125</td><td>38705</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>274.04998779296875</td><td>61753</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>274.3500061035156</td><td>89305</td></tr>
 </table>
 
 ## NTPC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>328.45001220703125</td><td>27926</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>328.6000061035156</td><td>31890</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>328.6000061035156</td><td>38282</td></tr>
 </table>
 
 ## ONGC.NS
