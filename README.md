@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-18 15:50:43 IST
+Last updated: 2025-11-18 16:16:39 IST
 
 ## RELIANCE.NS
 
@@ -46,8 +46,8 @@ Last updated: 2025-11-18 15:50:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>405.8500061035156</td><td>17316</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>405.29998779296875</td><td>71046</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>405.3500061035156</td><td>22248</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -78,8 +78,8 @@ Last updated: 2025-11-18 15:50:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>2093.10009765625</td><td>3970</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>2092.800048828125</td><td>8135</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>2091.60009765625</td><td>14197</td></tr>
 </table>
 
 ## LT.NS
@@ -126,8 +126,8 @@ Last updated: 2025-11-18 15:50:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>1758.800048828125</td><td>5589</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>1757.4000244140625</td><td>8393</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>1757.199951171875</td><td>17216</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -150,8 +150,8 @@ Last updated: 2025-11-18 15:50:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-18 15:29:00+05:30</td><td>328.45001220703125</td><td>27926</td></tr>
   <tr><td>2025-11-18 15:28:00+05:30</td><td>328.6000061035156</td><td>31890</td></tr>
-  <tr><td>2025-11-18 15:27:00+05:30</td><td>328.6000061035156</td><td>38282</td></tr>
 </table>
 
 ## ONGC.NS
