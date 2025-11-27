@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-27 15:50:20 IST
+Last updated: 2025-11-27 16:16:09 IST
 
 ## RELIANCE.NS
 
@@ -54,8 +54,8 @@ Last updated: 2025-11-27 15:50:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-27 15:29:00+05:30</td><td>2451.699951171875</td><td>15368</td></tr>
   <tr><td>2025-11-27 15:28:00+05:30</td><td>2455.0</td><td>13074</td></tr>
-  <tr><td>2025-11-27 15:27:00+05:30</td><td>2454.699951171875</td><td>4491</td></tr>
 </table>
 
 ## SBIN.NS
@@ -78,8 +78,8 @@ Last updated: 2025-11-27 15:50:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-27 15:29:00+05:30</td><td>2110.199951171875</td><td>14506</td></tr>
   <tr><td>2025-11-27 15:28:00+05:30</td><td>2113.60009765625</td><td>21918</td></tr>
-  <tr><td>2025-11-27 15:27:00+05:30</td><td>2113.89990234375</td><td>14927</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2025-11-27 15:50:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-27 15:29:00+05:30</td><td>1287.300048828125</td><td>8470</td></tr>
   <tr><td>2025-11-27 15:28:00+05:30</td><td>1286.5999755859375</td><td>19023</td></tr>
-  <tr><td>2025-11-27 15:27:00+05:30</td><td>1288.800048828125</td><td>20620</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -118,16 +118,16 @@ Last updated: 2025-11-27 15:50:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-27 15:29:00+05:30</td><td>15903.0</td><td>595</td></tr>
   <tr><td>2025-11-27 15:28:00+05:30</td><td>15905.0</td><td>1326</td></tr>
-  <tr><td>2025-11-27 15:27:00+05:30</td><td>15903.0</td><td>2033</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-27 15:29:00+05:30</td><td>1810.300048828125</td><td>2120</td></tr>
   <tr><td>2025-11-27 15:28:00+05:30</td><td>1810.4000244140625</td><td>5186</td></tr>
-  <tr><td>2025-11-27 15:27:00+05:30</td><td>1809.9000244140625</td><td>6962</td></tr>
 </table>
 
 ## WIPRO.NS
