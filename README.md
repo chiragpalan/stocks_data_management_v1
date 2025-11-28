@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-11-28 15:50:08 IST
+Last updated: 2025-11-28 16:14:57 IST
 
 ## RELIANCE.NS
 
@@ -102,8 +102,8 @@ Last updated: 2025-11-28 15:50:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-28 15:29:00+05:30</td><td>1037.5</td><td>21717</td></tr>
   <tr><td>2025-11-28 15:28:00+05:30</td><td>1037.4000244140625</td><td>33378</td></tr>
-  <tr><td>2025-11-28 15:27:00+05:30</td><td>1037.9000244140625</td><td>23032</td></tr>
 </table>
 
 ## ASIANPAINT.NS
@@ -118,16 +118,16 @@ Last updated: 2025-11-28 15:50:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-28 15:29:00+05:30</td><td>15900.0</td><td>670</td></tr>
   <tr><td>2025-11-28 15:28:00+05:30</td><td>15890.0</td><td>1684</td></tr>
-  <tr><td>2025-11-28 15:27:00+05:30</td><td>15887.0</td><td>2181</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-28 15:29:00+05:30</td><td>1831.5999755859375</td><td>8750</td></tr>
   <tr><td>2025-11-28 15:28:00+05:30</td><td>1831.5999755859375</td><td>9272</td></tr>
-  <tr><td>2025-11-28 15:27:00+05:30</td><td>1832.0</td><td>14177</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -150,15 +150,15 @@ Last updated: 2025-11-28 15:50:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-28 15:29:00+05:30</td><td>326.45001220703125</td><td>13899</td></tr>
   <tr><td>2025-11-28 15:28:00+05:30</td><td>326.70001220703125</td><td>24662</td></tr>
-  <tr><td>2025-11-28 15:27:00+05:30</td><td>326.6499938964844</td><td>71966</td></tr>
 </table>
 
 ## ONGC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-11-28 15:29:00+05:30</td><td>243.25</td><td>44431</td></tr>
   <tr><td>2025-11-28 15:28:00+05:30</td><td>243.10000610351562</td><td>64067</td></tr>
-  <tr><td>2025-11-28 15:27:00+05:30</td><td>243.10000610351562</td><td>26970</td></tr>
 </table>
 
