@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-01 15:51:22 IST
+Last updated: 2025-12-01 16:18:56 IST
 
 ## RELIANCE.NS
 
@@ -94,8 +94,8 @@ Last updated: 2025-12-01 15:51:22 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-01 15:29:00+05:30</td><td>1275.699951171875</td><td>5326</td></tr>
   <tr><td>2025-12-01 15:28:00+05:30</td><td>1275.800048828125</td><td>5555</td></tr>
-  <tr><td>2025-12-01 15:27:00+05:30</td><td>1275.5</td><td>16014</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -118,16 +118,16 @@ Last updated: 2025-12-01 15:51:22 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-01 15:29:00+05:30</td><td>16097.0</td><td>883</td></tr>
   <tr><td>2025-12-01 15:28:00+05:30</td><td>16130.0</td><td>1938</td></tr>
-  <tr><td>2025-12-01 15:27:00+05:30</td><td>16145.0</td><td>2712</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-01 15:29:00+05:30</td><td>1807.4000244140625</td><td>5317</td></tr>
   <tr><td>2025-12-01 15:28:00+05:30</td><td>1808.300048828125</td><td>4012</td></tr>
-  <tr><td>2025-12-01 15:27:00+05:30</td><td>1808.800048828125</td><td>10981</td></tr>
 </table>
 
 ## WIPRO.NS
