@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-03 15:41:59 IST
+Last updated: 2025-12-03 16:10:49 IST
 
 ## RELIANCE.NS
 
@@ -38,8 +38,8 @@ Last updated: 2025-12-03 15:41:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>3180.0</td><td>10748</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>3179.0</td><td>11122</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>3179.0</td><td>9865</td></tr>
 </table>
 
 ## ITC.NS
@@ -54,8 +54,8 @@ Last updated: 2025-12-03 15:41:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>2448.0</td><td>3616</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>2438.10009765625</td><td>9581</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>2438.60009765625</td><td>37618</td></tr>
 </table>
 
 ## SBIN.NS
@@ -70,16 +70,16 @@ Last updated: 2025-12-03 15:41:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>2086.0</td><td>11382</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>2087.800048828125</td><td>30182</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>2087.5</td><td>44168</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>2146.10009765625</td><td>14330</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>2147.0</td><td>13704</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>2145.699951171875</td><td>32204</td></tr>
 </table>
 
 ## LT.NS
@@ -94,32 +94,32 @@ Last updated: 2025-12-03 15:41:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>1270.699951171875</td><td>14092</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>1270.199951171875</td><td>21795</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>1269.5999755859375</td><td>35248</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>1021.4000244140625</td><td>23796</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>1022.9000244140625</td><td>84784</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>1022.9000244140625</td><td>22832</td></tr>
 </table>
 
 ## ASIANPAINT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>2953.5</td><td>1629</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>2954.0</td><td>5860</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>2956.0</td><td>7908</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>16082.0</td><td>439</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>16070.0</td><td>1146</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>16062.0</td><td>1953</td></tr>
 </table>
 
 ## SUNPHARMA.NS
@@ -150,15 +150,15 @@ Last updated: 2025-12-03 15:41:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>322.95001220703125</td><td>51532</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>323.0</td><td>86885</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>323.0</td><td>90224</td></tr>
 </table>
 
 ## ONGC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>240.02000427246094</td><td>15516</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>240.0</td><td>102384</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>240.1199951171875</td><td>100308</td></tr>
 </table>
 
