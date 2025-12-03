@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-03 15:52:39 IST
+Last updated: 2025-12-03 16:19:11 IST
 
 ## RELIANCE.NS
 
@@ -38,8 +38,8 @@ Last updated: 2025-12-03 15:52:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>3180.0</td><td>10748</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>3179.0</td><td>11122</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>3179.0</td><td>9865</td></tr>
 </table>
 
 ## ITC.NS
@@ -78,8 +78,8 @@ Last updated: 2025-12-03 15:52:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>2146.10009765625</td><td>14330</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>2147.0</td><td>13704</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>2145.699951171875</td><td>32204</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2025-12-03 15:52:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>1270.699951171875</td><td>14092</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>1270.199951171875</td><td>21795</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>1269.5999755859375</td><td>35248</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -110,16 +110,16 @@ Last updated: 2025-12-03 15:52:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>2953.5</td><td>1629</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>2954.0</td><td>5860</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>2956.0</td><td>7908</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>16082.0</td><td>439</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>16070.0</td><td>1146</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>16062.0</td><td>1953</td></tr>
 </table>
 
 ## SUNPHARMA.NS
@@ -158,7 +158,7 @@ Last updated: 2025-12-03 15:52:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-03 15:29:00+05:30</td><td>240.02000427246094</td><td>15516</td></tr>
   <tr><td>2025-12-03 15:28:00+05:30</td><td>240.0</td><td>102384</td></tr>
-  <tr><td>2025-12-03 15:27:00+05:30</td><td>240.1199951171875</td><td>100308</td></tr>
 </table>
 
