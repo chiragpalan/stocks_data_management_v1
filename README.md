@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-04 15:52:27 IST
+Last updated: 2025-12-04 16:19:04 IST
 
 ## RELIANCE.NS
 
@@ -94,16 +94,16 @@ Last updated: 2025-12-04 15:52:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-04 15:29:00+05:30</td><td>1280.0</td><td>7159</td></tr>
   <tr><td>2025-12-04 15:28:00+05:30</td><td>1279.5</td><td>13945</td></tr>
-  <tr><td>2025-12-04 15:27:00+05:30</td><td>1278.699951171875</td><td>12211</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-04 15:29:00+05:30</td><td>1029.0999755859375</td><td>17062</td></tr>
   <tr><td>2025-12-04 15:28:00+05:30</td><td>1027.9000244140625</td><td>21246</td></tr>
-  <tr><td>2025-12-04 15:27:00+05:30</td><td>1028.0</td><td>23453</td></tr>
 </table>
 
 ## ASIANPAINT.NS
@@ -126,8 +126,8 @@ Last updated: 2025-12-04 15:52:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-04 15:29:00+05:30</td><td>1818.300048828125</td><td>13522</td></tr>
   <tr><td>2025-12-04 15:28:00+05:30</td><td>1814.9000244140625</td><td>19573</td></tr>
-  <tr><td>2025-12-04 15:27:00+05:30</td><td>1815.5999755859375</td><td>15956</td></tr>
 </table>
 
 ## WIPRO.NS
