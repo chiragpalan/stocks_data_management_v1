@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-05 15:50:01 IST
+Last updated: 2025-12-05 16:15:33 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-12-05 15:50:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-05 15:29:00+05:30</td><td>1003.2999877929688</td><td>27639</td></tr>
   <tr><td>2025-12-05 15:28:00+05:30</td><td>1002.0</td><td>48905</td></tr>
-  <tr><td>2025-12-05 15:27:00+05:30</td><td>1002.7000122070312</td><td>53954</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -38,8 +38,8 @@ Last updated: 2025-12-05 15:50:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-05 15:29:00+05:30</td><td>3238.199951171875</td><td>6867</td></tr>
   <tr><td>2025-12-05 15:28:00+05:30</td><td>3240.60009765625</td><td>10615</td></tr>
-  <tr><td>2025-12-05 15:27:00+05:30</td><td>3242.0</td><td>14601</td></tr>
 </table>
 
 ## ITC.NS
@@ -62,8 +62,8 @@ Last updated: 2025-12-05 15:50:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-05 15:29:00+05:30</td><td>971.5</td><td>33520</td></tr>
   <tr><td>2025-12-05 15:28:00+05:30</td><td>971.75</td><td>49029</td></tr>
-  <tr><td>2025-12-05 15:27:00+05:30</td><td>972.0</td><td>59874</td></tr>
 </table>
 
 ## BHARTIARTL.NS
@@ -110,24 +110,24 @@ Last updated: 2025-12-05 15:50:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-05 15:29:00+05:30</td><td>2968.5</td><td>1624</td></tr>
   <tr><td>2025-12-05 15:28:00+05:30</td><td>2962.89990234375</td><td>5093</td></tr>
-  <tr><td>2025-12-05 15:27:00+05:30</td><td>2967.0</td><td>10139</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-05 15:29:00+05:30</td><td>16282.0</td><td>361</td></tr>
   <tr><td>2025-12-05 15:28:00+05:30</td><td>16301.0</td><td>650</td></tr>
-  <tr><td>2025-12-05 15:27:00+05:30</td><td>16309.0</td><td>2084</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-05 15:29:00+05:30</td><td>1805.300048828125</td><td>4871</td></tr>
   <tr><td>2025-12-05 15:28:00+05:30</td><td>1803.699951171875</td><td>10175</td></tr>
-  <tr><td>2025-12-05 15:27:00+05:30</td><td>1804.5999755859375</td><td>17582</td></tr>
 </table>
 
 ## WIPRO.NS
