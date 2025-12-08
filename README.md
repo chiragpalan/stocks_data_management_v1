@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-08 15:51:05 IST
+Last updated: 2025-12-08 16:18:07 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-12-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1003.0999755859375</td><td>19965</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1001.9000244140625</td><td>54824</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1002.5999755859375</td><td>51258</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -30,16 +30,16 @@ Last updated: 2025-12-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1610.800048828125</td><td>23294</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1609.0</td><td>22490</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1609.0999755859375</td><td>24017</td></tr>
 </table>
 
 ## TCS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>3236.5</td><td>8175</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>3239.800048828125</td><td>10992</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>3237.199951171875</td><td>17394</td></tr>
 </table>
 
 ## ITC.NS
@@ -94,8 +94,8 @@ Last updated: 2025-12-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1273.800048828125</td><td>8381</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1268.0</td><td>9055</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1270.0</td><td>14486</td></tr>
 </table>
 
 ## BAJFINANCE.NS
