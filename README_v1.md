@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-08 15:42:37 IST
+Last updated: 2025-12-08 16:10:40 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2025-12-08 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1003.0999755859375</td><td>19965</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1001.9000244140625</td><td>54824</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1002.5999755859375</td><td>51258</td></tr>
 </table>
 
 ## ICICIBANK.NS
@@ -30,16 +30,16 @@ Last updated: 2025-12-08 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1610.800048828125</td><td>23294</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1609.0</td><td>22490</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1609.0999755859375</td><td>24017</td></tr>
 </table>
 
 ## TCS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>3236.5</td><td>8175</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>3239.800048828125</td><td>10992</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>3237.199951171875</td><td>17394</td></tr>
 </table>
 
 ## ITC.NS
@@ -70,8 +70,8 @@ Last updated: 2025-12-08 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>2086.199951171875</td><td>5252</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>2086.5</td><td>18229</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>2084.199951171875</td><td>20075</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -94,16 +94,16 @@ Last updated: 2025-12-08 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1273.800048828125</td><td>8381</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1268.0</td><td>9055</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1270.0</td><td>14486</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1026.4000244140625</td><td>25265</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1024.199951171875</td><td>21892</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1024.0</td><td>37478</td></tr>
 </table>
 
 ## ASIANPAINT.NS
@@ -126,8 +126,8 @@ Last updated: 2025-12-08 15:42:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-08 15:29:00+05:30</td><td>1796.199951171875</td><td>5307</td></tr>
   <tr><td>2025-12-08 15:28:00+05:30</td><td>1796.800048828125</td><td>9409</td></tr>
-  <tr><td>2025-12-08 15:27:00+05:30</td><td>1796.800048828125</td><td>17085</td></tr>
 </table>
 
 ## WIPRO.NS
