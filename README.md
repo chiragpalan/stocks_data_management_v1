@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-09 15:51:27 IST
+Last updated: 2025-12-09 16:18:18 IST
 
 ## RELIANCE.NS
 
@@ -46,8 +46,8 @@ Last updated: 2025-12-09 15:51:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-09 15:29:00+05:30</td><td>401.04998779296875</td><td>12773</td></tr>
   <tr><td>2025-12-09 15:28:00+05:30</td><td>400.8999938964844</td><td>45104</td></tr>
-  <tr><td>2025-12-09 15:27:00+05:30</td><td>400.95001220703125</td><td>49212</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -86,8 +86,8 @@ Last updated: 2025-12-09 15:51:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-09 15:29:00+05:30</td><td>3997.5</td><td>5051</td></tr>
   <tr><td>2025-12-09 15:28:00+05:30</td><td>3999.89990234375</td><td>9126</td></tr>
-  <tr><td>2025-12-09 15:27:00+05:30</td><td>3999.89990234375</td><td>7528</td></tr>
 </table>
 
 ## AXISBANK.NS
@@ -126,8 +126,8 @@ Last updated: 2025-12-09 15:51:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-09 15:29:00+05:30</td><td>1776.0</td><td>1672</td></tr>
   <tr><td>2025-12-09 15:28:00+05:30</td><td>1775.4000244140625</td><td>21416</td></tr>
-  <tr><td>2025-12-09 15:27:00+05:30</td><td>1776.4000244140625</td><td>13960</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -142,8 +142,8 @@ Last updated: 2025-12-09 15:51:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-09 15:29:00+05:30</td><td>264.54998779296875</td><td>9390</td></tr>
   <tr><td>2025-12-09 15:28:00+05:30</td><td>264.04998779296875</td><td>63671</td></tr>
-  <tr><td>2025-12-09 15:27:00+05:30</td><td>264.29998779296875</td><td>106868</td></tr>
 </table>
 
 ## NTPC.NS
@@ -158,7 +158,7 @@ Last updated: 2025-12-09 15:51:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-09 15:29:00+05:30</td><td>239.83999633789062</td><td>11812</td></tr>
   <tr><td>2025-12-09 15:28:00+05:30</td><td>239.05999755859375</td><td>68345</td></tr>
-  <tr><td>2025-12-09 15:27:00+05:30</td><td>239.33999633789062</td><td>40360</td></tr>
 </table>
 
