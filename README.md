@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-15 16:01:23 IST
+Last updated: 2025-12-15 16:27:33 IST
 
 ## RELIANCE.NS
 
@@ -134,8 +134,8 @@ Last updated: 2025-12-15 16:01:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-15 15:29:00+05:30</td><td>261.739990234375</td><td>26460</td></tr>
   <tr><td>2025-12-15 15:28:00+05:30</td><td>262.29998779296875</td><td>0</td></tr>
-  <tr><td>2025-12-15 15:27:00+05:30</td><td>262.3800048828125</td><td>50505</td></tr>
 </table>
 
 ## POWERGRID.NS
