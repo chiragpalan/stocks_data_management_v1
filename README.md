@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-17 15:51:38 IST
+Last updated: 2025-12-17 16:19:20 IST
 
 ## RELIANCE.NS
 
@@ -38,8 +38,8 @@ Last updated: 2025-12-17 15:51:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>3217.800048828125</td><td>4153</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>3216.0</td><td>4756</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>3217.10009765625</td><td>8124</td></tr>
 </table>
 
 ## ITC.NS
@@ -54,8 +54,8 @@ Last updated: 2025-12-17 15:51:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>2275.60009765625</td><td>5393</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>2277.699951171875</td><td>12833</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>2276.699951171875</td><td>12851</td></tr>
 </table>
 
 ## SBIN.NS
@@ -78,24 +78,24 @@ Last updated: 2025-12-17 15:51:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>2173.199951171875</td><td>2750</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>2174.10009765625</td><td>4408</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>2174.300048828125</td><td>14376</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>4062.39990234375</td><td>2141</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>4064.39990234375</td><td>2027</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>4060.199951171875</td><td>7868</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>1224.699951171875</td><td>12047</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>1225.5999755859375</td><td>14715</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>1225.199951171875</td><td>29399</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -150,15 +150,15 @@ Last updated: 2025-12-17 15:51:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>321.25</td><td>36984</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>321.25</td><td>43341</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>321.25</td><td>42191</td></tr>
 </table>
 
 ## ONGC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-17 15:29:00+05:30</td><td>232.91000366210938</td><td>19963</td></tr>
   <tr><td>2025-12-17 15:28:00+05:30</td><td>232.6999969482422</td><td>54994</td></tr>
-  <tr><td>2025-12-17 15:27:00+05:30</td><td>232.85000610351562</td><td>65956</td></tr>
 </table>
 
