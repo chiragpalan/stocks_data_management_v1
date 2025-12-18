@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-18 15:50:40 IST
+Last updated: 2025-12-18 16:17:37 IST
 
 ## RELIANCE.NS
 
@@ -22,16 +22,16 @@ Last updated: 2025-12-18 15:50:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-18 15:29:00+05:30</td><td>1356.800048828125</td><td>27836</td></tr>
   <tr><td>2025-12-18 15:28:00+05:30</td><td>1356.9000244140625</td><td>31940</td></tr>
-  <tr><td>2025-12-18 15:27:00+05:30</td><td>1356.9000244140625</td><td>51071</td></tr>
 </table>
 
 ## INFY.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-18 15:29:00+05:30</td><td>1626.800048828125</td><td>18457</td></tr>
   <tr><td>2025-12-18 15:28:00+05:30</td><td>1628.699951171875</td><td>29642</td></tr>
-  <tr><td>2025-12-18 15:27:00+05:30</td><td>1628.800048828125</td><td>36371</td></tr>
 </table>
 
 ## TCS.NS
@@ -54,8 +54,8 @@ Last updated: 2025-12-18 15:50:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-18 15:29:00+05:30</td><td>2265.5</td><td>2946</td></tr>
   <tr><td>2025-12-18 15:28:00+05:30</td><td>2266.199951171875</td><td>7450</td></tr>
-  <tr><td>2025-12-18 15:27:00+05:30</td><td>2268.10009765625</td><td>10199</td></tr>
 </table>
 
 ## SBIN.NS
@@ -118,8 +118,8 @@ Last updated: 2025-12-18 15:50:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-18 15:29:00+05:30</td><td>16329.0</td><td>928</td></tr>
   <tr><td>2025-12-18 15:28:00+05:30</td><td>16321.0</td><td>1657</td></tr>
-  <tr><td>2025-12-18 15:27:00+05:30</td><td>16318.0</td><td>1219</td></tr>
 </table>
 
 ## SUNPHARMA.NS
