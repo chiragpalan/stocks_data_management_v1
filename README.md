@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-19 15:52:31 IST
+Last updated: 2025-12-19 16:16:59 IST
 
 ## RELIANCE.NS
 
@@ -54,8 +54,8 @@ Last updated: 2025-12-19 15:52:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-19 15:29:00+05:30</td><td>2280.0</td><td>7162</td></tr>
   <tr><td>2025-12-19 15:28:00+05:30</td><td>2281.39990234375</td><td>16419</td></tr>
-  <tr><td>2025-12-19 15:27:00+05:30</td><td>2282.60009765625</td><td>21213</td></tr>
 </table>
 
 ## SBIN.NS
@@ -70,16 +70,16 @@ Last updated: 2025-12-19 15:52:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-19 15:29:00+05:30</td><td>2097.699951171875</td><td>19451</td></tr>
   <tr><td>2025-12-19 15:28:00+05:30</td><td>2095.199951171875</td><td>70868</td></tr>
-  <tr><td>2025-12-19 15:27:00+05:30</td><td>2094.0</td><td>84515</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-19 15:29:00+05:30</td><td>2159.5</td><td>2805</td></tr>
   <tr><td>2025-12-19 15:28:00+05:30</td><td>2158.39990234375</td><td>26918</td></tr>
-  <tr><td>2025-12-19 15:27:00+05:30</td><td>2160.10009765625</td><td>20624</td></tr>
 </table>
 
 ## LT.NS
@@ -94,16 +94,16 @@ Last updated: 2025-12-19 15:52:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-19 15:29:00+05:30</td><td>1230.5999755859375</td><td>15475</td></tr>
   <tr><td>2025-12-19 15:28:00+05:30</td><td>1232.0999755859375</td><td>61215</td></tr>
-  <tr><td>2025-12-19 15:27:00+05:30</td><td>1232.5</td><td>51398</td></tr>
 </table>
 
 ## BAJFINANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-19 15:29:00+05:30</td><td>1008.2999877929688</td><td>18811</td></tr>
   <tr><td>2025-12-19 15:28:00+05:30</td><td>1006.9000244140625</td><td>34399</td></tr>
-  <tr><td>2025-12-19 15:27:00+05:30</td><td>1007.0</td><td>95220</td></tr>
 </table>
 
 ## ASIANPAINT.NS
