@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2025-12-26 15:49:45 IST
+Last updated: 2025-12-26 16:15:56 IST
 
 ## RELIANCE.NS
 
@@ -54,8 +54,8 @@ Last updated: 2025-12-26 15:49:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2025-12-26 15:29:00+05:30</td><td>2285.39990234375</td><td>2793</td></tr>
   <tr><td>2025-12-26 15:28:00+05:30</td><td>2288.0</td><td>1946</td></tr>
-  <tr><td>2025-12-26 15:27:00+05:30</td><td>2287.5</td><td>1782</td></tr>
 </table>
 
 ## SBIN.NS
