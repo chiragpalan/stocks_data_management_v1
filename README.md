@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-01 15:50:37 IST
+Last updated: 2026-01-01 16:16:22 IST
 
 ## RELIANCE.NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-01-01 15:50:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-01 15:29:00+05:30</td><td>3227.39990234375</td><td>1872</td></tr>
   <tr><td>2026-01-01 15:28:00+05:30</td><td>3222.800048828125</td><td>2789</td></tr>
-  <tr><td>2026-01-01 15:27:00+05:30</td><td>3224.0</td><td>1963</td></tr>
 </table>
 
 ## ITC.NS
@@ -110,16 +110,16 @@ Last updated: 2026-01-01 15:50:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-01 15:29:00+05:30</td><td>2752.0</td><td>1182</td></tr>
   <tr><td>2026-01-01 15:28:00+05:30</td><td>2754.60009765625</td><td>1210</td></tr>
-  <tr><td>2026-01-01 15:27:00+05:30</td><td>2753.60009765625</td><td>1296</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-01 15:29:00+05:30</td><td>16708.0</td><td>410</td></tr>
   <tr><td>2026-01-01 15:28:00+05:30</td><td>16719.0</td><td>1253</td></tr>
-  <tr><td>2026-01-01 15:27:00+05:30</td><td>16716.0</td><td>907</td></tr>
 </table>
 
 ## SUNPHARMA.NS
@@ -134,8 +134,8 @@ Last updated: 2026-01-01 15:50:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-01 15:29:00+05:30</td><td>267.3500061035156</td><td>22128</td></tr>
   <tr><td>2026-01-01 15:28:00+05:30</td><td>267.54998779296875</td><td>23627</td></tr>
-  <tr><td>2026-01-01 15:27:00+05:30</td><td>267.0</td><td>21463</td></tr>
 </table>
 
 ## POWERGRID.NS
