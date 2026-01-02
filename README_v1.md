@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-02 15:41:03 IST
+Last updated: 2026-01-02 16:05:31 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-01-02 15:41:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>1640.4000244140625</td><td>15471</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>1641.9000244140625</td><td>11037</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>1641.5</td><td>11790</td></tr>
 </table>
 
 ## TCS.NS
@@ -54,8 +54,8 @@ Last updated: 2026-01-02 15:41:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>2348.0</td><td>3088</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>2348.0</td><td>2064</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>2348.0</td><td>4391</td></tr>
 </table>
 
 ## SBIN.NS
@@ -70,8 +70,8 @@ Last updated: 2026-01-02 15:41:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>2106.300048828125</td><td>4053</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>2107.199951171875</td><td>20926</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>2106.10009765625</td><td>18623</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -102,32 +102,32 @@ Last updated: 2026-01-02 15:41:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>990.4500122070312</td><td>21529</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>989.8499755859375</td><td>43514</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>990.4000244140625</td><td>55141</td></tr>
 </table>
 
 ## ASIANPAINT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>2772.60009765625</td><td>1055</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>2774.10009765625</td><td>1054</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>2776.300048828125</td><td>8224</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>16960.0</td><td>783</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>16980.0</td><td>4901</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>16970.0</td><td>5716</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>1728.0</td><td>3099</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>1728.300048828125</td><td>4763</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>1728.0</td><td>6967</td></tr>
 </table>
 
 ## WIPRO.NS
