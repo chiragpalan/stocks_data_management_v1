@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-02 15:49:21 IST
+Last updated: 2026-01-02 16:15:37 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-01-02 15:49:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>1640.4000244140625</td><td>15471</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>1641.9000244140625</td><td>11037</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>1641.5</td><td>11790</td></tr>
 </table>
 
 ## TCS.NS
@@ -126,8 +126,8 @@ Last updated: 2026-01-02 15:49:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-02 15:29:00+05:30</td><td>1728.0</td><td>3099</td></tr>
   <tr><td>2026-01-02 15:28:00+05:30</td><td>1728.300048828125</td><td>4763</td></tr>
-  <tr><td>2026-01-02 15:27:00+05:30</td><td>1728.0</td><td>6967</td></tr>
 </table>
 
 ## WIPRO.NS
