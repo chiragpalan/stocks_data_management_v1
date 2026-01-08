@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-08 15:51:46 IST
+Last updated: 2026-01-08 16:19:35 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-01-08 15:51:46 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>1613.300048828125</td><td>11207</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>1612.5</td><td>28364</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>1612.800048828125</td><td>27324</td></tr>
 </table>
 
 ## TCS.NS
@@ -70,24 +70,24 @@ Last updated: 2026-01-08 15:51:46 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>2066.300048828125</td><td>8967</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>2064.800048828125</td><td>37703</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>2064.0</td><td>32163</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>2133.0</td><td>7120</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>2129.699951171875</td><td>10004</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>2127.0</td><td>17292</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>4028.39990234375</td><td>4532</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>4035.0</td><td>7733</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>4042.300048828125</td><td>11527</td></tr>
 </table>
 
 ## AXISBANK.NS
@@ -126,8 +126,8 @@ Last updated: 2026-01-08 15:51:46 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>1760.699951171875</td><td>6033</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>1759.9000244140625</td><td>13146</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>1759.300048828125</td><td>16794</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -150,8 +150,8 @@ Last updated: 2026-01-08 15:51:46 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>344.3999938964844</td><td>17111</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>342.54998779296875</td><td>25798</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>342.75</td><td>67373</td></tr>
 </table>
 
 ## ONGC.NS
