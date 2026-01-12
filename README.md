@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-12 15:29:11 IST
+Last updated: 2026-01-12 16:02:28 IST
 
 ## RELIANCE.NS
 
@@ -46,16 +46,16 @@ Last updated: 2026-01-12 15:29:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>338.29998779296875</td><td>46120</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>338.1000061035156</td><td>161483</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>338.45001220703125</td><td>49917</td></tr>
 </table>
 
 ## HINDUNILVR.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>2406.199951171875</td><td>1411</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>2405.10009765625</td><td>0</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>2403.199951171875</td><td>7409</td></tr>
 </table>
 
 ## SBIN.NS
