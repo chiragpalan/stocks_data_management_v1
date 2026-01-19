@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-19 15:55:23 IST
+Last updated: 2026-01-19 16:24:06 IST
 
 ## RELIANCE.NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-01-19 15:55:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-19 15:29:00+05:30</td><td>3163.60009765625</td><td>1978</td></tr>
   <tr><td>2026-01-19 15:28:00+05:30</td><td>3163.89990234375</td><td>2693</td></tr>
-  <tr><td>2026-01-19 15:27:00+05:30</td><td>3163.0</td><td>5660</td></tr>
 </table>
 
 ## ITC.NS
@@ -86,8 +86,8 @@ Last updated: 2026-01-19 15:55:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-19 15:29:00+05:30</td><td>3869.800048828125</td><td>1945</td></tr>
   <tr><td>2026-01-19 15:28:00+05:30</td><td>3863.699951171875</td><td>2751</td></tr>
-  <tr><td>2026-01-19 15:27:00+05:30</td><td>3865.0</td><td>4523</td></tr>
 </table>
 
 ## AXISBANK.NS
@@ -110,8 +110,8 @@ Last updated: 2026-01-19 15:55:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-19 15:29:00+05:30</td><td>2754.0</td><td>8957</td></tr>
   <tr><td>2026-01-19 15:28:00+05:30</td><td>2736.10009765625</td><td>6124</td></tr>
-  <tr><td>2026-01-19 15:27:00+05:30</td><td>2741.300048828125</td><td>5270</td></tr>
 </table>
 
 ## MARUTI.NS
@@ -142,8 +142,8 @@ Last updated: 2026-01-19 15:55:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-19 15:29:00+05:30</td><td>257.6499938964844</td><td>12265</td></tr>
   <tr><td>2026-01-19 15:28:00+05:30</td><td>257.04998779296875</td><td>26483</td></tr>
-  <tr><td>2026-01-19 15:27:00+05:30</td><td>257.0</td><td>15916</td></tr>
 </table>
 
 ## NTPC.NS
