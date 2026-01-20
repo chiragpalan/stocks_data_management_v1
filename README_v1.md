@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-20 15:45:40 IST
+Last updated: 2026-01-20 16:21:22 IST
 
 ## RELIANCE.NS
 
@@ -30,16 +30,16 @@ Last updated: 2026-01-20 15:45:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>1658.9000244140625</td><td>16141</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>1655.9000244140625</td><td>56753</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>1654.0</td><td>49052</td></tr>
 </table>
 
 ## TCS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>3102.300048828125</td><td>16866</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>3101.0</td><td>18293</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>3100.300048828125</td><td>16081</td></tr>
 </table>
 
 ## ITC.NS
@@ -54,8 +54,8 @@ Last updated: 2026-01-20 15:45:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>2379.10009765625</td><td>2074</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>2379.10009765625</td><td>6668</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>2378.0</td><td>10085</td></tr>
 </table>
 
 ## SBIN.NS
@@ -70,8 +70,8 @@ Last updated: 2026-01-20 15:45:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>1996.0</td><td>11077</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>1988.5999755859375</td><td>52888</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>1986.5</td><td>71495</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -86,8 +86,8 @@ Last updated: 2026-01-20 15:45:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>3810.5</td><td>2815</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>3810.60009765625</td><td>7480</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>3808.89990234375</td><td>14648</td></tr>
 </table>
 
 ## AXISBANK.NS
@@ -118,16 +118,16 @@ Last updated: 2026-01-20 15:45:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>15879.0</td><td>444</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>15898.0</td><td>6114</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>15875.0</td><td>1925</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>1613.800048828125</td><td>24923</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>1621.0999755859375</td><td>73509</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>1620.0</td><td>80660</td></tr>
 </table>
 
 ## WIPRO.NS
@@ -142,8 +142,8 @@ Last updated: 2026-01-20 15:45:40 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-20 15:29:00+05:30</td><td>254.0500030517578</td><td>31653</td></tr>
   <tr><td>2026-01-20 15:28:00+05:30</td><td>254.1999969482422</td><td>86940</td></tr>
-  <tr><td>2026-01-20 15:27:00+05:30</td><td>254.10000610351562</td><td>54167</td></tr>
 </table>
 
 ## NTPC.NS
