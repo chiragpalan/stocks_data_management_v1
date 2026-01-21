@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-21 15:55:26 IST
+Last updated: 2026-01-21 16:25:03 IST
 
 ## RELIANCE.NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-01-21 15:55:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>1996.0999755859375</td><td>4346</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>2001.800048828125</td><td>37593</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>1998.5999755859375</td><td>19532</td></tr>
 </table>
 
 ## KOTAKBANK.NS
