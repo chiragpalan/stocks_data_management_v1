@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-22 15:45:57 IST
+Last updated: 2026-01-22 16:21:15 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-01-22 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-22 15:29:00+05:30</td><td>1663.5</td><td>11730</td></tr>
   <tr><td>2026-01-22 15:28:00+05:30</td><td>1662.9000244140625</td><td>17412</td></tr>
-  <tr><td>2026-01-22 15:27:00+05:30</td><td>1663.199951171875</td><td>37186</td></tr>
 </table>
 
 ## TCS.NS
@@ -70,8 +70,8 @@ Last updated: 2026-01-22 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-22 15:29:00+05:30</td><td>2002.199951171875</td><td>6253</td></tr>
   <tr><td>2026-01-22 15:28:00+05:30</td><td>2005.699951171875</td><td>20268</td></tr>
-  <tr><td>2026-01-22 15:27:00+05:30</td><td>2006.300048828125</td><td>46987</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -110,16 +110,16 @@ Last updated: 2026-01-22 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-22 15:29:00+05:30</td><td>2703.800048828125</td><td>2152</td></tr>
   <tr><td>2026-01-22 15:28:00+05:30</td><td>2702.10009765625</td><td>6723</td></tr>
-  <tr><td>2026-01-22 15:27:00+05:30</td><td>2703.5</td><td>16807</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-22 15:29:00+05:30</td><td>15765.0</td><td>744</td></tr>
   <tr><td>2026-01-22 15:28:00+05:30</td><td>15764.0</td><td>1546</td></tr>
-  <tr><td>2026-01-22 15:27:00+05:30</td><td>15759.0</td><td>1556</td></tr>
 </table>
 
 ## SUNPHARMA.NS
@@ -158,7 +158,7 @@ Last updated: 2026-01-22 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-22 15:29:00+05:30</td><td>244.00999450683594</td><td>41341</td></tr>
   <tr><td>2026-01-22 15:28:00+05:30</td><td>243.5</td><td>36978</td></tr>
-  <tr><td>2026-01-22 15:27:00+05:30</td><td>243.85000610351562</td><td>55953</td></tr>
 </table>
 
