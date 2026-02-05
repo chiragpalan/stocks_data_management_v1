@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-05 15:37:25 IST
+Last updated: 2026-02-05 16:29:49 IST
 
 ## RELIANCE.NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-02-05 15:37:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-05 15:29:00+05:30</td><td>1992.4000244140625</td><td>11572</td></tr>
   <tr><td>2026-02-05 15:28:00+05:30</td><td>1990.9000244140625</td><td>15095</td></tr>
-  <tr><td>2026-02-05 15:27:00+05:30</td><td>1991.800048828125</td><td>22338</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -94,8 +94,8 @@ Last updated: 2026-02-05 15:37:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-05 15:29:00+05:30</td><td>1330.5999755859375</td><td>12589</td></tr>
   <tr><td>2026-02-05 15:28:00+05:30</td><td>1330.0</td><td>25591</td></tr>
-  <tr><td>2026-02-05 15:27:00+05:30</td><td>1330.699951171875</td><td>47654</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,32 +126,32 @@ Last updated: 2026-02-05 15:37:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-05 15:29:00+05:30</td><td>1702.5999755859375</td><td>9111</td></tr>
   <tr><td>2026-02-05 15:28:00+05:30</td><td>1702.0999755859375</td><td>14150</td></tr>
-  <tr><td>2026-02-05 15:27:00+05:30</td><td>1703.0999755859375</td><td>21661</td></tr>
 </table>
 
 ## WIPRO.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-05 15:29:00+05:30</td><td>233.38999938964844</td><td>39902</td></tr>
   <tr><td>2026-02-05 15:28:00+05:30</td><td>233.1699981689453</td><td>25282</td></tr>
-  <tr><td>2026-02-05 15:27:00+05:30</td><td>233.19000244140625</td><td>36973</td></tr>
 </table>
 
 ## POWERGRID.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-05 15:29:00+05:30</td><td>289.3500061035156</td><td>37347</td></tr>
   <tr><td>2026-02-05 15:28:00+05:30</td><td>288.6499938964844</td><td>44305</td></tr>
-  <tr><td>2026-02-05 15:27:00+05:30</td><td>288.70001220703125</td><td>68163</td></tr>
 </table>
 
 ## NTPC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-05 15:29:00+05:30</td><td>367.0</td><td>124604</td></tr>
   <tr><td>2026-02-05 15:28:00+05:30</td><td>366.79998779296875</td><td>93906</td></tr>
-  <tr><td>2026-02-05 15:27:00+05:30</td><td>366.70001220703125</td><td>123478</td></tr>
 </table>
 
 ## ONGC.NS
