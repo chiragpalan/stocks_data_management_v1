@@ -1,13 +1,13 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-06 15:29:10 IST
+Last updated: 2026-02-06 16:06:35 IST
 
 ## RELIANCE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1450.0</td><td>16575</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1452.0999755859375</td><td>0</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1451.9000244140625</td><td>42987</td></tr>
 </table>
 
 ## HDFCBANK.NS
@@ -54,16 +54,16 @@ Last updated: 2026-02-06 15:29:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>2419.699951171875</td><td>5515</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>2420.89990234375</td><td>8185</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>2421.0</td><td>7643</td></tr>
 </table>
 
 ## SBIN.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1066.0</td><td>25925</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1066.199951171875</td><td>0</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1066.300048828125</td><td>46969</td></tr>
 </table>
 
 ## BHARTIARTL.NS
@@ -86,16 +86,16 @@ Last updated: 2026-02-06 15:29:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>4068.0</td><td>4800</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>4070.39990234375</td><td>6959</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>4070.5</td><td>7697</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1341.5999755859375</td><td>9583</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1341.5</td><td>21241</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1341.699951171875</td><td>90037</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,8 +126,8 @@ Last updated: 2026-02-06 15:29:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1696.0</td><td>5495</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1694.0999755859375</td><td>22936</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1694.199951171875</td><td>19001</td></tr>
 </table>
 
 ## WIPRO.NS
