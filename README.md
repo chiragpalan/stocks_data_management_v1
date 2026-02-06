@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-06 15:37:24 IST
+Last updated: 2026-02-06 16:30:38 IST
 
 ## RELIANCE.NS
 
@@ -22,24 +22,24 @@ Last updated: 2026-02-06 15:37:24 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1406.0999755859375</td><td>27577</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1407.9000244140625</td><td>216582</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1407.5</td><td>173498</td></tr>
 </table>
 
 ## INFY.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1507.0999755859375</td><td>34590</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1504.800048828125</td><td>178342</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1503.4000244140625</td><td>62834</td></tr>
 </table>
 
 ## TCS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>2941.60009765625</td><td>18218</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>2941.0</td><td>20932</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>2944.60009765625</td><td>33612</td></tr>
 </table>
 
 ## ITC.NS
@@ -78,8 +78,8 @@ Last updated: 2026-02-06 15:37:24 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>422.3500061035156</td><td>40060</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>422.29998779296875</td><td>75781</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>422.29998779296875</td><td>132365</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2026-02-06 15:37:24 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>1341.5999755859375</td><td>9583</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>1341.5</td><td>21241</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>1341.699951171875</td><td>90037</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -118,8 +118,8 @@ Last updated: 2026-02-06 15:37:24 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>14997.0</td><td>372</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>14990.0</td><td>663</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>14964.0</td><td>1513</td></tr>
 </table>
 
 ## SUNPHARMA.NS
@@ -150,8 +150,8 @@ Last updated: 2026-02-06 15:37:24 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-06 15:29:00+05:30</td><td>365.04998779296875</td><td>18773</td></tr>
   <tr><td>2026-02-06 15:28:00+05:30</td><td>364.5</td><td>30696</td></tr>
-  <tr><td>2026-02-06 15:27:00+05:30</td><td>364.6000061035156</td><td>49007</td></tr>
 </table>
 
 ## ONGC.NS
