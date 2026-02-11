@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-11 15:38:11 IST
+Last updated: 2026-02-11 16:36:50 IST
 
 ## RELIANCE.NS
 
@@ -54,8 +54,8 @@ Last updated: 2026-02-11 15:38:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-11 15:29:00+05:30</td><td>2462.89990234375</td><td>828</td></tr>
   <tr><td>2026-02-11 15:28:00+05:30</td><td>2460.0</td><td>12753</td></tr>
-  <tr><td>2026-02-11 15:27:00+05:30</td><td>2462.0</td><td>15984</td></tr>
 </table>
 
 ## SBIN.NS
@@ -70,16 +70,16 @@ Last updated: 2026-02-11 15:38:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-11 15:29:00+05:30</td><td>2012.0999755859375</td><td>24549</td></tr>
   <tr><td>2026-02-11 15:28:00+05:30</td><td>2011.0999755859375</td><td>40601</td></tr>
-  <tr><td>2026-02-11 15:27:00+05:30</td><td>2010.5</td><td>48125</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-11 15:29:00+05:30</td><td>429.54998779296875</td><td>29592</td></tr>
   <tr><td>2026-02-11 15:28:00+05:30</td><td>429.3999938964844</td><td>30928</td></tr>
-  <tr><td>2026-02-11 15:27:00+05:30</td><td>429.29998779296875</td><td>80638</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2026-02-11 15:38:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-11 15:29:00+05:30</td><td>1347.300048828125</td><td>4601</td></tr>
   <tr><td>2026-02-11 15:28:00+05:30</td><td>1348.699951171875</td><td>17589</td></tr>
-  <tr><td>2026-02-11 15:27:00+05:30</td><td>1347.800048828125</td><td>24520</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,16 +126,16 @@ Last updated: 2026-02-11 15:38:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-11 15:29:00+05:30</td><td>1711.0999755859375</td><td>4128</td></tr>
   <tr><td>2026-02-11 15:28:00+05:30</td><td>1707.9000244140625</td><td>10141</td></tr>
-  <tr><td>2026-02-11 15:27:00+05:30</td><td>1710.4000244140625</td><td>16359</td></tr>
 </table>
 
 ## WIPRO.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-11 15:29:00+05:30</td><td>229.80999755859375</td><td>37859</td></tr>
   <tr><td>2026-02-11 15:28:00+05:30</td><td>229.6199951171875</td><td>54952</td></tr>
-  <tr><td>2026-02-11 15:27:00+05:30</td><td>229.5800018310547</td><td>39117</td></tr>
 </table>
 
 ## POWERGRID.NS
