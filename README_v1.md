@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-13 15:54:17 IST
+Last updated: 2026-02-13 16:36:05 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-02-13 15:54:17 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-13 15:29:00+05:30</td><td>1369.0999755859375</td><td>47268</td></tr>
   <tr><td>2026-02-13 15:28:00+05:30</td><td>1368.5</td><td>55511</td></tr>
-  <tr><td>2026-02-13 15:27:00+05:30</td><td>1367.699951171875</td><td>97287</td></tr>
 </table>
 
 ## TCS.NS
