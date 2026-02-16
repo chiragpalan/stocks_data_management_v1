@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-16 15:59:34 IST
+Last updated: 2026-02-16 16:53:19 IST
 
 ## RELIANCE.NS
 
@@ -94,8 +94,8 @@ Last updated: 2026-02-16 15:59:34 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-16 15:29:00+05:30</td><td>1358.300048828125</td><td>15713</td></tr>
   <tr><td>2026-02-16 15:28:00+05:30</td><td>1358.300048828125</td><td>11637</td></tr>
-  <tr><td>2026-02-16 15:27:00+05:30</td><td>1358.0</td><td>21737</td></tr>
 </table>
 
 ## BAJFINANCE.NS
