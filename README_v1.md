@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-17 15:59:35 IST
+Last updated: 2026-02-17 16:42:44 IST
 
 ## RELIANCE.NS
 
@@ -94,8 +94,8 @@ Last updated: 2026-02-17 15:59:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-17 15:29:00+05:30</td><td>1357.199951171875</td><td>23758</td></tr>
   <tr><td>2026-02-17 15:28:00+05:30</td><td>1356.0</td><td>13433</td></tr>
-  <tr><td>2026-02-17 15:27:00+05:30</td><td>1355.300048828125</td><td>22858</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,8 +126,8 @@ Last updated: 2026-02-17 15:59:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-17 15:29:00+05:30</td><td>1717.0999755859375</td><td>4238</td></tr>
   <tr><td>2026-02-17 15:28:00+05:30</td><td>1717.9000244140625</td><td>29552</td></tr>
-  <tr><td>2026-02-17 15:27:00+05:30</td><td>1716.0</td><td>12791</td></tr>
 </table>
 
 ## WIPRO.NS
