@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-19 15:32:45 IST
+Last updated: 2026-02-19 16:33:53 IST
 
 ## RELIANCE.NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-02-19 15:32:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-19 15:29:00+05:30</td><td>1388.800048828125</td><td>9437</td></tr>
   <tr><td>2026-02-19 15:28:00+05:30</td><td>1388.0</td><td>33439</td></tr>
-  <tr><td>2026-02-19 15:27:00+05:30</td><td>1386.9000244140625</td><td>41705</td></tr>
 </table>
 
 ## INFY.NS
@@ -78,8 +78,8 @@ Last updated: 2026-02-19 15:32:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-19 15:29:00+05:30</td><td>416.3999938964844</td><td>29013</td></tr>
   <tr><td>2026-02-19 15:28:00+05:30</td><td>416.1000061035156</td><td>41154</td></tr>
-  <tr><td>2026-02-19 15:27:00+05:30</td><td>416.29998779296875</td><td>59276</td></tr>
 </table>
 
 ## LT.NS
@@ -118,8 +118,8 @@ Last updated: 2026-02-19 15:32:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-19 15:29:00+05:30</td><td>14903.0</td><td>278</td></tr>
   <tr><td>2026-02-19 15:28:00+05:30</td><td>14904.0</td><td>652</td></tr>
-  <tr><td>2026-02-19 15:27:00+05:30</td><td>14895.0</td><td>1032</td></tr>
 </table>
 
 ## SUNPHARMA.NS
@@ -142,16 +142,16 @@ Last updated: 2026-02-19 15:32:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-19 15:29:00+05:30</td><td>294.6499938964844</td><td>17647</td></tr>
   <tr><td>2026-02-19 15:28:00+05:30</td><td>293.3999938964844</td><td>57486</td></tr>
-  <tr><td>2026-02-19 15:27:00+05:30</td><td>293.6000061035156</td><td>44875</td></tr>
 </table>
 
 ## NTPC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-19 15:29:00+05:30</td><td>363.20001220703125</td><td>19322</td></tr>
   <tr><td>2026-02-19 15:28:00+05:30</td><td>362.45001220703125</td><td>21781</td></tr>
-  <tr><td>2026-02-19 15:27:00+05:30</td><td>362.5</td><td>29499</td></tr>
 </table>
 
 ## ONGC.NS
