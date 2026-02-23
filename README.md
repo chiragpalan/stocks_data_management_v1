@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-23 15:59:56 IST
+Last updated: 2026-02-23 16:53:04 IST
 
 ## RELIANCE.NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-02-23 15:59:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-23 15:29:00+05:30</td><td>923.5999755859375</td><td>19282</td></tr>
   <tr><td>2026-02-23 15:28:00+05:30</td><td>924.5999755859375</td><td>54972</td></tr>
-  <tr><td>2026-02-23 15:27:00+05:30</td><td>924.3499755859375</td><td>89513</td></tr>
 </table>
 
 ## ICICIBANK.NS
