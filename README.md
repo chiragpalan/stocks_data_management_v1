@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-02-24 15:56:27 IST
+Last updated: 2026-02-24 16:42:38 IST
 
 ## RELIANCE.NS
 
@@ -46,16 +46,16 @@ Last updated: 2026-02-24 15:56:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-24 15:29:00+05:30</td><td>323.5</td><td>41276</td></tr>
   <tr><td>2026-02-24 15:28:00+05:30</td><td>323.95001220703125</td><td>60983</td></tr>
-  <tr><td>2026-02-24 15:27:00+05:30</td><td>323.6000061035156</td><td>135089</td></tr>
 </table>
 
 ## HINDUNILVR.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-24 15:29:00+05:30</td><td>2358.60009765625</td><td>6905</td></tr>
   <tr><td>2026-02-24 15:28:00+05:30</td><td>2361.0</td><td>9505</td></tr>
-  <tr><td>2026-02-24 15:27:00+05:30</td><td>2364.5</td><td>13395</td></tr>
 </table>
 
 ## SBIN.NS
@@ -94,8 +94,8 @@ Last updated: 2026-02-24 15:56:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-02-24 15:29:00+05:30</td><td>1387.5999755859375</td><td>27519</td></tr>
   <tr><td>2026-02-24 15:28:00+05:30</td><td>1385.300048828125</td><td>35520</td></tr>
-  <tr><td>2026-02-24 15:27:00+05:30</td><td>1386.0</td><td>47639</td></tr>
 </table>
 
 ## BAJFINANCE.NS
