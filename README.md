@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-03-04 15:50:31 IST
+Last updated: 2026-03-04 16:32:45 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-03-04 15:50:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-04 15:29:00+05:30</td><td>1307.4000244140625</td><td>46478</td></tr>
   <tr><td>2026-03-04 15:28:00+05:30</td><td>1306.9000244140625</td><td>39576</td></tr>
-  <tr><td>2026-03-04 15:27:00+05:30</td><td>1306.4000244140625</td><td>83424</td></tr>
 </table>
 
 ## TCS.NS
@@ -46,8 +46,8 @@ Last updated: 2026-03-04 15:50:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-04 15:29:00+05:30</td><td>311.95001220703125</td><td>89343</td></tr>
   <tr><td>2026-03-04 15:28:00+05:30</td><td>312.0</td><td>202790</td></tr>
-  <tr><td>2026-03-04 15:27:00+05:30</td><td>312.1499938964844</td><td>199725</td></tr>
 </table>
 
 ## HINDUNILVR.NS
@@ -70,8 +70,8 @@ Last updated: 2026-03-04 15:50:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-04 15:29:00+05:30</td><td>1905.9000244140625</td><td>50233</td></tr>
   <tr><td>2026-03-04 15:28:00+05:30</td><td>1911.9000244140625</td><td>28434</td></tr>
-  <tr><td>2026-03-04 15:27:00+05:30</td><td>1910.9000244140625</td><td>71881</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -110,8 +110,8 @@ Last updated: 2026-03-04 15:50:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-04 15:29:00+05:30</td><td>2285.199951171875</td><td>2131</td></tr>
   <tr><td>2026-03-04 15:28:00+05:30</td><td>2288.300048828125</td><td>4995</td></tr>
-  <tr><td>2026-03-04 15:27:00+05:30</td><td>2288.10009765625</td><td>13121</td></tr>
 </table>
 
 ## MARUTI.NS
@@ -134,8 +134,8 @@ Last updated: 2026-03-04 15:50:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-04 15:29:00+05:30</td><td>195.5500030517578</td><td>221085</td></tr>
   <tr><td>2026-03-04 15:28:00+05:30</td><td>195.14999389648438</td><td>147434</td></tr>
-  <tr><td>2026-03-04 15:27:00+05:30</td><td>195.1199951171875</td><td>199648</td></tr>
 </table>
 
 ## POWERGRID.NS
@@ -150,8 +150,8 @@ Last updated: 2026-03-04 15:50:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-04 15:29:00+05:30</td><td>365.79998779296875</td><td>117599</td></tr>
   <tr><td>2026-03-04 15:28:00+05:30</td><td>366.0</td><td>115507</td></tr>
-  <tr><td>2026-03-04 15:27:00+05:30</td><td>365.25</td><td>113514</td></tr>
 </table>
 
 ## ONGC.NS
