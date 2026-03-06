@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-03-06 15:31:39 IST
+Last updated: 2026-03-06 16:25:32 IST
 
 ## RELIANCE.NS
 
@@ -102,16 +102,16 @@ Last updated: 2026-03-06 15:31:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-06 15:29:00+05:30</td><td>950.2000122070312</td><td>26898</td></tr>
   <tr><td>2026-03-06 15:28:00+05:30</td><td>953.0</td><td>133451</td></tr>
-  <tr><td>2026-03-06 15:27:00+05:30</td><td>953.0999755859375</td><td>160018</td></tr>
 </table>
 
 ## ASIANPAINT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-06 15:29:00+05:30</td><td>2279.5</td><td>1536</td></tr>
   <tr><td>2026-03-06 15:28:00+05:30</td><td>2276.800048828125</td><td>3420</td></tr>
-  <tr><td>2026-03-06 15:27:00+05:30</td><td>2278.60009765625</td><td>6761</td></tr>
 </table>
 
 ## MARUTI.NS
@@ -142,8 +142,8 @@ Last updated: 2026-03-06 15:31:39 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-06 15:29:00+05:30</td><td>299.1499938964844</td><td>184299</td></tr>
   <tr><td>2026-03-06 15:28:00+05:30</td><td>300.0</td><td>271699</td></tr>
-  <tr><td>2026-03-06 15:27:00+05:30</td><td>300.04998779296875</td><td>389487</td></tr>
 </table>
 
 ## NTPC.NS
