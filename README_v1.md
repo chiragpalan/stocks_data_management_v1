@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-03-10 15:35:00 IST
+Last updated: 2026-03-10 16:28:33 IST
 
 ## RELIANCE.NS
 
@@ -78,24 +78,24 @@ Last updated: 2026-03-10 15:35:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-10 15:29:00+05:30</td><td>391.8500061035156</td><td>21255</td></tr>
   <tr><td>2026-03-10 15:28:00+05:30</td><td>392.1499938964844</td><td>71993</td></tr>
-  <tr><td>2026-03-10 15:27:00+05:30</td><td>391.8999938964844</td><td>134462</td></tr>
 </table>
 
 ## LT.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-10 15:29:00+05:30</td><td>3876.0</td><td>11395</td></tr>
   <tr><td>2026-03-10 15:28:00+05:30</td><td>3880.89990234375</td><td>14048</td></tr>
-  <tr><td>2026-03-10 15:27:00+05:30</td><td>3881.0</td><td>21248</td></tr>
 </table>
 
 ## AXISBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-10 15:29:00+05:30</td><td>1314.699951171875</td><td>7416</td></tr>
   <tr><td>2026-03-10 15:28:00+05:30</td><td>1317.199951171875</td><td>19828</td></tr>
-  <tr><td>2026-03-10 15:27:00+05:30</td><td>1317.4000244140625</td><td>37602</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -118,16 +118,16 @@ Last updated: 2026-03-10 15:35:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-10 15:29:00+05:30</td><td>13867.0</td><td>1036</td></tr>
   <tr><td>2026-03-10 15:28:00+05:30</td><td>13872.0</td><td>1975</td></tr>
-  <tr><td>2026-03-10 15:27:00+05:30</td><td>13886.0</td><td>2195</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-10 15:29:00+05:30</td><td>1812.800048828125</td><td>6328</td></tr>
   <tr><td>2026-03-10 15:28:00+05:30</td><td>1814.699951171875</td><td>23998</td></tr>
-  <tr><td>2026-03-10 15:27:00+05:30</td><td>1814.300048828125</td><td>29858</td></tr>
 </table>
 
 ## WIPRO.NS
