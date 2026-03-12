@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-03-12 15:37:52 IST
+Last updated: 2026-03-12 16:29:42 IST
 
 ## RELIANCE.NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-03-12 15:37:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-12 15:29:00+05:30</td><td>1266.5</td><td>33741</td></tr>
   <tr><td>2026-03-12 15:28:00+05:30</td><td>1268.9000244140625</td><td>51187</td></tr>
-  <tr><td>2026-03-12 15:27:00+05:30</td><td>1269.5999755859375</td><td>79894</td></tr>
 </table>
 
 ## INFY.NS
@@ -54,8 +54,8 @@ Last updated: 2026-03-12 15:37:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-12 15:29:00+05:30</td><td>2136.89990234375</td><td>11327</td></tr>
   <tr><td>2026-03-12 15:28:00+05:30</td><td>2130.39990234375</td><td>7816</td></tr>
-  <tr><td>2026-03-12 15:27:00+05:30</td><td>2131.199951171875</td><td>8713</td></tr>
 </table>
 
 ## SBIN.NS
@@ -70,16 +70,16 @@ Last updated: 2026-03-12 15:37:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-12 15:29:00+05:30</td><td>1801.300048828125</td><td>12644</td></tr>
   <tr><td>2026-03-12 15:28:00+05:30</td><td>1799.0</td><td>52939</td></tr>
-  <tr><td>2026-03-12 15:27:00+05:30</td><td>1799.0</td><td>44754</td></tr>
 </table>
 
 ## KOTAKBANK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-12 15:29:00+05:30</td><td>375.29998779296875</td><td>129059</td></tr>
   <tr><td>2026-03-12 15:28:00+05:30</td><td>374.8500061035156</td><td>168599</td></tr>
-  <tr><td>2026-03-12 15:27:00+05:30</td><td>374.95001220703125</td><td>155509</td></tr>
 </table>
 
 ## LT.NS
@@ -94,8 +94,8 @@ Last updated: 2026-03-12 15:37:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-12 15:29:00+05:30</td><td>1234.5</td><td>22981</td></tr>
   <tr><td>2026-03-12 15:28:00+05:30</td><td>1234.199951171875</td><td>39099</td></tr>
-  <tr><td>2026-03-12 15:27:00+05:30</td><td>1233.800048828125</td><td>80232</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -126,8 +126,8 @@ Last updated: 2026-03-12 15:37:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-12 15:29:00+05:30</td><td>1825.300048828125</td><td>4142</td></tr>
   <tr><td>2026-03-12 15:28:00+05:30</td><td>1827.300048828125</td><td>11218</td></tr>
-  <tr><td>2026-03-12 15:27:00+05:30</td><td>1827.5</td><td>17891</td></tr>
 </table>
 
 ## WIPRO.NS
