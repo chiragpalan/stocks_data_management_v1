@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-03-13 15:32:13 IST
+Last updated: 2026-03-13 16:26:49 IST
 
 ## RELIANCE.NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-03-13 15:32:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-13 15:29:00+05:30</td><td>1248.300048828125</td><td>18696</td></tr>
   <tr><td>2026-03-13 15:28:00+05:30</td><td>1251.9000244140625</td><td>24025</td></tr>
-  <tr><td>2026-03-13 15:27:00+05:30</td><td>1251.800048828125</td><td>28582</td></tr>
 </table>
 
 ## TCS.NS
@@ -70,8 +70,8 @@ Last updated: 2026-03-13 15:32:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-13 15:29:00+05:30</td><td>1803.4000244140625</td><td>15117</td></tr>
   <tr><td>2026-03-13 15:28:00+05:30</td><td>1805.5</td><td>20673</td></tr>
-  <tr><td>2026-03-13 15:27:00+05:30</td><td>1804.199951171875</td><td>24994</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -94,8 +94,8 @@ Last updated: 2026-03-13 15:32:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-13 15:29:00+05:30</td><td>1197.300048828125</td><td>11385</td></tr>
   <tr><td>2026-03-13 15:28:00+05:30</td><td>1198.199951171875</td><td>15613</td></tr>
-  <tr><td>2026-03-13 15:27:00+05:30</td><td>1198.300048828125</td><td>17420</td></tr>
 </table>
 
 ## BAJFINANCE.NS
@@ -110,24 +110,24 @@ Last updated: 2026-03-13 15:32:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-13 15:29:00+05:30</td><td>2196.800048828125</td><td>1808</td></tr>
   <tr><td>2026-03-13 15:28:00+05:30</td><td>2191.89990234375</td><td>14864</td></tr>
-  <tr><td>2026-03-13 15:27:00+05:30</td><td>2192.39990234375</td><td>10723</td></tr>
 </table>
 
 ## MARUTI.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-13 15:29:00+05:30</td><td>12591.0</td><td>2546</td></tr>
   <tr><td>2026-03-13 15:28:00+05:30</td><td>12609.0</td><td>3077</td></tr>
-  <tr><td>2026-03-13 15:27:00+05:30</td><td>12610.0</td><td>2265</td></tr>
 </table>
 
 ## SUNPHARMA.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-03-13 15:29:00+05:30</td><td>1801.5999755859375</td><td>2703</td></tr>
   <tr><td>2026-03-13 15:28:00+05:30</td><td>1803.300048828125</td><td>10406</td></tr>
-  <tr><td>2026-03-13 15:27:00+05:30</td><td>1802.800048828125</td><td>12523</td></tr>
 </table>
 
 ## WIPRO.NS
